@@ -1,0 +1,4541 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: branch 1.10\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2012-08-26 22:32-0400\n"
+"PO-Revision-Date: 2012-08-26 22:32-0400\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: la\n"
+
+#. [campaign]: id=Return_of_the_Monster
+#. [scenario]: id=17_Return_of_the_Monster
+#: Return_of_the_Monster/_main.cfg:11
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:4
+msgid "Return of the Monster"
+msgstr ""
+
+#. [campaign]: id=Return_of_the_Monster
+#: Return_of_the_Monster/_main.cfg:12
+msgid "RotM"
+msgstr ""
+
+#. [campaign]: id=Return_of_the_Monster
+#: Return_of_the_Monster/_main.cfg:19
+msgid "(Easy)"
+msgstr ""
+
+#. [campaign]: id=Return_of_the_Monster
+#: Return_of_the_Monster/_main.cfg:19
+msgid "Noble"
+msgstr ""
+
+#. [campaign]: id=Return_of_the_Monster
+#: Return_of_the_Monster/_main.cfg:20
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=Return_of_the_Monster
+#: Return_of_the_Monster/_main.cfg:20
+msgid "Royal"
+msgstr ""
+
+#. [campaign]: id=Return_of_the_Monster
+#: Return_of_the_Monster/_main.cfg:21
+msgid "(Hard)"
+msgstr ""
+
+#. [campaign]: id=Return_of_the_Monster
+#: Return_of_the_Monster/_main.cfg:21
+msgid "Lord"
+msgstr ""
+
+#. [campaign]: id=Return_of_the_Monster
+#: Return_of_the_Monster/_main.cfg:25
+msgid ""
+"It was time for Amailoss, born from the naga queen's last egg, to leave "
+"home. Time for him to grow into a leader in his own right, and eventually "
+"become the guardian and leader of some other naga city. But along the way, "
+"he became friends with an unusual mud-crawler, they met a strange young "
+"monster, discovered that a spirit had escaped from an orc prison, and the "
+"mystery of that spirit became a grave challenge for Amailoss and the many "
+"races in the region....\n"
+"\n"
+"A naga campaign, involving elves, orcs, saurians, turtle-like races, and "
+"some monsters. There are 16 game-play and 2 dialog scenarios. All scenarios "
+"are here and playable. This is still an early release, so bugs are possible, "
+"and some scenarios may need more balancing. Feedback on all aspects of the "
+"campaign will be gratefully received. \n"
+" \n"
+"Return of the Monster:"
+msgstr ""
+
+#. [campaign]: id=Return_of_the_Monster
+#: Return_of_the_Monster/_main.cfg:29
+msgid ""
+"\n"
+"Required Wesnoth version:"
+msgstr ""
+
+#. [about]
+#: Return_of_the_Monster/_main.cfg:34
+msgid "Campaign Design"
+msgstr ""
+
+#. [about]
+#: Return_of_the_Monster/_main.cfg:40
+msgid "Co-Author"
+msgstr ""
+
+#. [about]
+#: Return_of_the_Monster/_main.cfg:46
+msgid "Guest Appearance and WML Consultant"
+msgstr ""
+
+#. [about]
+#: Return_of_the_Monster/_main.cfg:52
+msgid "Guest Appearance"
+msgstr ""
+
+#. [about]
+#: Return_of_the_Monster/_main.cfg:58
+msgid "Contributions - Images"
+msgstr ""
+
+#. [about]
+#: Return_of_the_Monster/_main.cfg:64
+msgid "Artwork Consultant on the Monstrous Carapace unit"
+msgstr ""
+
+#. [race]: id=carapace
+#: Return_of_the_Monster/rotm-race.cfg:4
+msgid "race^Carapace"
+msgstr ""
+
+#. [race]: id=carapace
+#: Return_of_the_Monster/rotm-race.cfg:5
+msgid "race+female^Carapace"
+msgstr ""
+
+#. [race]: id=carapace
+#: Return_of_the_Monster/rotm-race.cfg:6
+msgid "race^Carapaces"
+msgstr ""
+
+#. [race]: id=carapace
+#: Return_of_the_Monster/rotm-race.cfg:7
+msgid ""
+"Carapaces are guards on the ocean, often appear in some river or swamps."
+msgstr ""
+
+#. [race]: id=carapace
+#: Return_of_the_Monster/rotm-race.cfg:15
+msgid ""
+"Amail,Axmail,Amprixta,Anexiraha,Anitratta,Arix,Blanaloss,Bloidatta,Gaxmoloss,"
+"Griaha,Flixta,Frikes,Hailoss,Hainoss,Harxoha,Huzel,Inaloss,Inexloss,Irixloss,"
+"Klezeloss,Kraska,Krezka,Kzapka,Lamailoss,Lexpeka,Maidatta,Malinoha,Nildloss,"
+"Pseloss,Psonka,Sekoloss,Siloss,Skell,Skepha,Slell,Snoloss,Soill,Sorkol,Srell,"
+"Trixoka,Turada,Vilail,Vlanis,Xabraka,Xamalel,Xinaha,Xnamoha,Zalha,Zleka,"
+"Zpseka,Zseka"
+msgstr ""
+
+#. [race]: id=fairy
+#: Return_of_the_Monster/rotm-race.cfg:19
+msgid "race^Fairy"
+msgstr ""
+
+#. [race]: id=fairy
+#: Return_of_the_Monster/rotm-race.cfg:20
+msgid "race+female^Fairy"
+msgstr ""
+
+#. [race]: id=fairy
+#: Return_of_the_Monster/rotm-race.cfg:21
+msgid "race^Fairies"
+msgstr ""
+
+#. [race]: id=fairy
+#: Return_of_the_Monster/rotm-race.cfg:22
+msgid ""
+"Snow fairies have haunted the highlands of Wesnoth for centuries, preferring "
+"to stay in only the coldest and most inaccessible places. Unlike most elves, "
+"they love the fragile beauty of the high mountain flowers and the soft multi-"
+"colored palette of the heather, rather than the lush green forests preferred "
+"by their lowland brethren. They even appreciate the delicate forms of the "
+"underground mushrooms that are normally only seen by dwarves and trolls.\n"
+"Snow fairies are powerful, ethereal, and elusive; even dwarvish wardens and "
+"the highest-flying drakes rarely encounter them. They harness the elemental "
+"power of the mountains to work their magic, suddenly animating the wiry "
+"highland plants to entangle an unsuspecting target, or assailing their foes "
+"with a magically-created cold flash of arctic purity."
+msgstr ""
+
+#. [race]: id=illusion
+#: Return_of_the_Monster/rotm-race.cfg:31
+msgid "race^Illusion"
+msgstr ""
+
+#. [race]: id=illusion
+#: Return_of_the_Monster/rotm-race.cfg:32
+msgid "race+female^Illusion"
+msgstr ""
+
+#. [race]: id=illusion
+#: Return_of_the_Monster/rotm-race.cfg:33
+msgid "race^Illusions"
+msgstr ""
+
+#. [race]: id=illusion
+#: Return_of_the_Monster/rotm-race.cfg:34
+msgid ""
+"Illusions are not living creature, but different from undead. Hallucination "
+"or doppelgänger may be more a correct word than the illusion in this "
+"campaign."
+msgstr ""
+
+#. [scenario]: id=01_A_Rule_of_Nagas
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:4
+msgid "A Rule of Nagas"
+msgstr ""
+
+#. [unit]: type=Naga Fighter Rotm, id=Trixleii
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:40
+msgid "Trixleii"
+msgstr ""
+
+#. [unit]: type=Nagini Dowser, id=Milissa
+#. [unit]: type=Nagini Maiden, id=Milissa
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:54
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:78
+msgid "Milissa"
+msgstr ""
+
+#. [unit]: type=Nagini Maiden, id=Rialia
+#. [unit]: type=White Nagini, id=Rialia
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:64
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:88
+msgid "Rialia"
+msgstr ""
+
+#. [side]: type=Nagini Queen, id=Hassalia
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:103
+msgid "Nagas"
+msgstr ""
+
+#. [side]: type=Nagini Queen, id=Hassalia
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:106
+msgid "Hassalia"
+msgstr ""
+
+#. [unit]: type=Fairy Dragon, id=Ixyndara
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:148
+msgid "Ixyndara"
+msgstr ""
+
+#. [unit]: type=Naga Noble, id=Lamassal
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:232
+msgid "Lamassal"
+msgstr ""
+
+#. [side]: type=Blood Bat, id=Blood Bat
+#. [side]: type=Dread Bat, id=Dread Bat
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:254
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:300
+msgid "Bats"
+msgstr ""
+
+#. [side]
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:314
+msgid "Fire Fairies"
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:337
+msgid "Move Amailoss out of the cave at south-east"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:341
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:107
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:269
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:400
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:166
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:313
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:314
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:327
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:467
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:217
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:357
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:922
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:119
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:198
+#: Return_of_the_Monster/utils/rotm-utils.cfg:41
+#: Return_of_the_Monster/utils/rotm-utils.cfg:64
+#: Return_of_the_Monster/utils/rotm-utils.cfg:90
+#: Return_of_the_Monster/utils/rotm-utils.cfg:109
+#: Return_of_the_Monster/utils/rotm-utils.cfg:136
+msgid "Death of Amailoss"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:345
+msgid "Death of Hassalia"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:349
+msgid "Death of Ixyndara"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:353
+msgid "Death of Lamassal"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:357
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:115
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:277
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:408
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:174
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:321
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:326
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:138
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:339
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:483
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:225
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:369
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:930
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:127
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:214
+#: Return_of_the_Monster/utils/rotm-utils.cfg:57
+#: Return_of_the_Monster/utils/rotm-utils.cfg:84
+#: Return_of_the_Monster/utils/rotm-utils.cfg:102
+#: Return_of_the_Monster/utils/rotm-utils.cfg:129
+#: Return_of_the_Monster/utils/rotm-utils.cfg:160
+msgid "Turns run out"
+msgstr ""
+
+#. [objectives]
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:360
+msgid "caution: unable to recruit after the second turn"
+msgstr ""
+
+#. [message]: id=Hassalia
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:411
+msgid ""
+"Amailoss, it is time. Destiny calls, and you are ready. You must travel "
+"south. The best help I can give is to choose the safest time for your "
+"departure, and that time is now. You are my last-born egg, and special to "
+"me. You should take a few friends to help you on the journey. We will all "
+"miss you, Amailoss..."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:415
+msgid ""
+"Yes, ma'am. I will gather some friends, and we will set out immediately. "
+"Have you noticed all the bats recently?"
+msgstr ""
+
+#. [message]: id=Hassalia
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:419
+msgid ""
+"The bats will not be a serious problem. Since Ixyndara is with us, the Fire "
+"Fairies guard us well. Make your way to the southern exit, then go south, "
+"downstream, to the ocean. As you near the ocean, look for an elder carapace. "
+"His name is Divaloss. He will advise you about what you need to do next."
+msgstr ""
+
+#. [message]: id=Ixyndara
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:439
+msgid "RoooAAARRR! Farewell, Amailoss. I may see you later..."
+msgstr ""
+
+#. [message]: id=Lamassal
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:443
+msgid ""
+"Take care, baby-brother. I am sure you will find a new home, and love it as "
+"much as this one."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:447
+msgid ""
+"I hope so. Thank you for the good wishes. Goodbye, mother. So long, everyone."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:680
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:709
+msgid "Uhh..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:722
+msgid "Aaarh..."
+msgstr ""
+
+#. [message]: id=Hassalia
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:726
+msgid ""
+"Oh-no! By right Lamassal was supposed to be the heir... Amailoss! Your "
+"departure has just canceled."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:752
+msgid "Here we are! Farewell, my home, and thank you, all."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:774
+msgid "Here it is! The river is right here!"
+msgstr ""
+
+#. [scenario]: id=02_Through_the_Forest
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:4
+msgid "Through the Forest"
+msgstr ""
+
+#. [side]: type=Elvish Captain, id=Til-Gan
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:37
+msgid "West Elves"
+msgstr ""
+
+#. [side]: type=Elvish Captain, id=Til-Gan
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:40
+msgid "Til-Gan"
+msgstr ""
+
+#. [side]: type=Elvish Hero, id=Thril-Gamir
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:64
+msgid "East Elves"
+msgstr ""
+
+#. [side]: type=Elvish Hero, id=Thril-Gamir
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:67
+msgid "Thril-Gamir"
+msgstr ""
+
+#. [side]
+#. [side]: type=Orcish Slurbow, id=Boshnak
+#. [side]: type=Orcish Warrior, id=Granak
+#. [side]: type=Orcish Warrior, id=Porbag
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:84
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:35
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:43
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:155
+msgid "Orcs"
+msgstr ""
+
+#. [side]: type=Orcish Warrior, id=Porbag
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:87
+msgid "Porbag"
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:103
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:126
+msgid "Move Amailoss onto the Sign"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:111
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:273
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:404
+msgid "Death of Til-Gan"
+msgstr ""
+
+#. [message]: speaker=Amailoss
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:162
+msgid ""
+"This must be the area called Silent Forest. I cannot hear a single sound. "
+"Strange."
+msgstr ""
+
+#. [message]: speaker=Trixleii
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:166
+msgid ""
+"I heard from some of the queen's troops that there is a conflict going on "
+"here. The elves on the east bank disagree with the elf elders, who live on "
+"the west bank. It looks like the two sides are actually fighting now."
+msgstr ""
+
+#. [message]: id=Til-Gan
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:202
+msgid ""
+"Pardon me, strangers...  the situation here is very delicate. The elves to "
+"the east have rebelled against the elders. You shouldn't pause here, and you "
+"need to be cautious as you pass through."
+msgstr ""
+
+#. [message]: speaker=Amailoss
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:207
+msgid ""
+"Greetings. I am a noble naga, named Amailoss. The elders of my race have "
+"been friends of your elders for many years. If we can be of help, we are "
+"willing."
+msgstr ""
+
+#. [message]: id=Til-Gan
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:211
+msgid "Thank you. Your help will be useful. A keep is right there."
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:265
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:261
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:320
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:534
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:752
+msgid "Defeat all enemy leaders"
+msgstr ""
+
+#. [message]: id=Til-Gan
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:337
+msgid "Allied with orcs?  Shameful!  How can an elf do such a thing?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:377
+msgid ""
+"Aaack... Cooperating with orcs will be necessary in the future. I only tried "
+"to be the first to do it."
+msgstr ""
+
+#. [message]: id=Til-Gan
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:381
+msgid "But have you no pride?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:387
+msgid ""
+"Aaack... Hear me, we elves will have to choose an ally one day in the "
+"future..."
+msgstr ""
+
+#. [message]: id=Til-Gan
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:391
+msgid "But you don't have be against us!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:396
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:306
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:323
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:463
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:213
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:353
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:137
+msgid "Defeat the enemy leader"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:419
+msgid "Hm! Something is there!"
+msgstr ""
+
+#. [message]: id=Til-Gan
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:435
+msgid ""
+"That is Thril-Gamir's magical armor. It is excellent quality and you are "
+"welcome to it. It will fit the shape of anyone that wears it."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:439
+msgid "Okay, thank you."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:464
+msgid "This magical elven armor gives a unit extra protection from attack."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:469
+msgid "Should I take this armor?"
+msgstr ""
+
+#. [option]: speaker=unit
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:471
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:452
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:670
+msgid "Yes!"
+msgstr ""
+
+#. [object]: id=battle_jacket
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:479
+msgid "battle jacket"
+msgstr ""
+
+#. [object]: id=battle_jacket
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:480
+msgid "Battle Jacket increases the wearer's resistance to attack by 20 points."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:504
+msgid "Amazing! It fits even on me."
+msgstr ""
+
+#. [option]: speaker=unit
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:522
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:519
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:737
+msgid "No!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:540
+msgid "Aaack..."
+msgstr ""
+
+#. [message]: id=Til-Gan
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:550
+msgid ""
+"We appreciate your help, Amailoss. We had no idea that orcs were here in the "
+"area...  Please know that the elves of Silent Forest wish you well on your "
+"quest."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:555
+msgid "So long, elves."
+msgstr ""
+
+#. [scenario]: id=03_Pirates_Port
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:4
+msgid "Pirate's Port"
+msgstr ""
+
+#. [side]: type=Assassin, id=Gamir
+#. [side]: type=Bandit, id=Bludry
+#. [side]: type=Fugitive, id=Della
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:38
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:96
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:261
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:285
+msgid "Pirates"
+msgstr ""
+
+#. [side]: type=Fugitive, id=Della
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:42
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:288
+msgid "Della"
+msgstr ""
+
+#. [side]: type=Assassin, id=Gamir
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:100
+msgid "Gamir"
+msgstr ""
+
+#. [side]
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:148
+msgid "Squids"
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:162
+msgid "Move Amailoss onto the sign"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:170
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:317
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:318
+msgid "Death of Divaloss"
+msgstr ""
+
+#. [message]: id=Trixleii
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:214
+msgid "Ooh...? What kind of ship is that?"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:218
+msgid "Hmmm...  That flag. It must belong to a pirate, I think."
+msgstr ""
+
+#. [unit]: type=Elder Carapace, id=Divaloss
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:229
+msgid "Divaloss"
+msgstr ""
+
+#. [unit]: type=Hunting Carapace, id=Slele
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:243
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:370
+msgid "Slele"
+msgstr ""
+
+#. [unit]: type=Protective Carapace, id=Vinail
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:255
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:391
+msgid "Vinail"
+msgstr ""
+
+#. [message]: id=Divaloss
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:267
+msgid ""
+"That is correct, young naga.  The pirate port is over there.  Ah... I see "
+"from your trappings that you are a noble from Queen Hassalia's troop."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:271
+msgid "Oh, uh, yes, I am Amailoss from Queen Hassalia's troop. You are...?"
+msgstr ""
+
+#. [message]: id=Divaloss
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:275
+msgid ""
+"Amailoss? Very good. I am Divaloss whom you are looking for. Your mother  "
+"asked me to advise you during your training. Those humans are pirates, and "
+"they attack  other ships and steal the cargoes from them. Let's begin your "
+"training today. Why don't  you drive those pirates out of there? Move over "
+"here, and recruit some troops."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:279
+msgid ""
+"Oh! You are Divaloss?  Pleasure to meet you, sir.  The journey has been "
+"long, and I was hoping to rest the troops...  But, we can begin your mission "
+"right away. Indeed, we will, sir."
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:309
+msgid "Defeat one of Pirate's leaders"
+msgstr ""
+
+#. [message]: id=Della
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:351
+msgid ""
+"I expected mermen, but you look like snakes... Hey, why don't you help us?  "
+"A  big cargo ship will pass through here in a few days.  I can give some of "
+"the treasure."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:355
+msgid "No! Stop the stealing. And you should leave here immediately!"
+msgstr ""
+
+#. [message]: id=Della
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:359
+msgid ""
+"Not a chance! It took long time to build this fortress, and we won't be "
+"leaving here."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:363
+msgid "Then I warn you, we will defeat you and force you out."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:387
+msgid "Uuuh... This should not be happening...."
+msgstr ""
+
+#. [message]: id=Della
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:400
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:447
+msgid ""
+"Pirates? Ha! Defeated by a bunch of amateurs. I'm outa here. Later, snakes."
+msgstr ""
+
+#. [message]: id=Divaloss
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:423
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:470
+msgid ""
+"Hoo, hoo, hoo....  Well done, young naga.  She is their boss, named Della.   "
+"She's very bad, though....  \n"
+"Come along, please.  Lord Tulosis will want to meet you."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:439
+msgid "Aaack... They got me..."
+msgstr ""
+
+#. [scenario]: id=04_Carapace_Guards
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:4
+msgid "Carapace-Guards"
+msgstr ""
+
+#. [side]: type=Lord Carapace, id=Tulosis
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:77
+msgid "Carapaces"
+msgstr ""
+
+#. [side]: type=Lord Carapace, id=Tulosis
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:80
+msgid "Tulosis"
+msgstr ""
+
+#. [side]: type=Bandit, id=Bludry
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:264
+msgid "Bludry"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:310
+msgid "Taken the treasure or the green ball"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:322
+msgid "Death of Tulosis"
+msgstr ""
+
+#. [message]: id=Bludry
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:474
+msgid "Don't be afraid! Take the treasures!"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:478
+msgid ""
+"Here they come!  Everyone, protect the treasure!  And be careful of those "
+"ships; they can be deadly!"
+msgstr ""
+
+#. [message]: id=Divaloss
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:482
+msgid "Uh...!  Something is happening."
+msgstr ""
+
+#. [message]: id=Tulosis
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:486
+msgid "What is it, Divaloss?"
+msgstr ""
+
+#. [message]: id=Divaloss
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:490
+msgid ""
+"There is a disturance in the energy far north of here.  I have the feeling "
+"that it involves Ixyndara, the great leader of the reptiles...  Lord "
+"Tulosis, we should finish up here as soon as possible."
+msgstr ""
+
+#. [message]: id=Tulosis
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:494
+msgid ""
+"Indeed. \n"
+"Amailoss, if you achieve a victory here, your training will be over.  Your "
+"skills will be well honed, and it will be time for you to become a leader of "
+"an independent force."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:499
+msgid "Yes, sir. But I worry about our Queen and people, sir!"
+msgstr ""
+
+#. [message]: id=Tulosis
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:503
+msgid ""
+"Understandable.  But we must handle the immediate problem first, Amailoss.  "
+"Trust our strength, strike hard, and then we can figure out how to help the "
+"northern nagas."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:515
+msgid ""
+"Storm Orb, a Naga Legend, has been created from their carapaces. It makes a "
+"new ranged attack."
+msgstr ""
+
+#. [message]: id=Divaloss
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:520
+msgid "We cannot use it now."
+msgstr ""
+
+#. [message]: id=Della
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:595
+msgid ""
+"Heh, heh, heh.  Let's get that green ball. It's sure to bring us a lot of  "
+"gold."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:599
+msgid "It's Della!  And a strong force.  Guard the south-west!"
+msgstr ""
+
+#. [message]: id=Tulosis
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:650
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:672
+msgid "Noooo... Amailoss, you fail to become a commander."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:685
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:698
+msgid "Uuuh... This should not be happening..."
+msgstr ""
+
+#. [message]: id=Tulosis
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:709
+msgid "Well done."
+msgstr ""
+
+#. [message]: speaker=Divaloss
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:713
+msgid ""
+"Gather the troops, we must leave here immediately.  Part of our force must "
+"go north and locate the source of that distubance.  And perhaps to help "
+"Ixyndara."
+msgstr ""
+
+#. [message]: id=Tulosis
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:717
+msgid ""
+"Amailoss, you have earned the right to lead an independent force.  Take some "
+"troops, go to the area called Riverside, and find a dwarvish inventor named "
+"Montas. He is said to be worried about danger and unrest in the area."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:721
+msgid "Yes, sir, and please take care."
+msgstr ""
+
+#. [message]: id=Divaloss
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:731
+msgid ""
+"Take the orb with you. It is a sign that you are the heir, and it will give "
+"you an extra attack."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:735
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:779
+msgid "Indeed."
+msgstr ""
+
+#. [attack]: type=fire
+#. [effect]: type=fire
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:756
+#: Return_of_the_Monster/units/nagas/Nagini_Queen.cfg:52
+#: Return_of_the_Monster/utils/rotm-unit-utils.cfg:32
+msgid "storm orb"
+msgstr ""
+
+#. [message]: id=Divaloss
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:775
+msgid ""
+"Take the orb with you. It is a sign that you are the heir, and it will give "
+"you an extra attack after you've gained more experience."
+msgstr ""
+
+#. [scenario]: id=05_The_Birth
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:4
+msgid "The Birth"
+msgstr ""
+
+#. [side]: type=Saurian Guard, id=Jexxik
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:37
+msgid "Saurians"
+msgstr ""
+
+#. [side]: type=Saurian Guard, id=Jexxik
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:40
+msgid "Jexxik"
+msgstr ""
+
+#. [side]
+#. [side]: type=Troll Shaman, id=Troll Shaman
+#. [side]: type=Troll Warrior, id=Troll Warrior
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:65
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:41
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:60
+msgid "Trolls"
+msgstr ""
+
+#. [side]: type=Cuttle Fish, id=Beast
+#. [side]: type=Direwolf, id=Direwolf
+#. [side]: type=Giant Spider
+#. [side]: type=Giant Spider, id=Skeap
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:82
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:34
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:95
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:73
+msgid "Local Monsters"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:130
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:331
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:471
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:206
+#: Return_of_the_Monster/utils/rotm-utils.cfg:98
+#: Return_of_the_Monster/utils/rotm-utils.cfg:117
+#: Return_of_the_Monster/utils/rotm-utils.cfg:144
+msgid "Death of Montas"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:134
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:335
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:475
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:221
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:361
+#: Return_of_the_Monster/utils/rotm-utils.cfg:45
+#: Return_of_the_Monster/utils/rotm-utils.cfg:68
+msgid "Death of Jexxik"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:176
+msgid ""
+"I heard that Riverside is over a bridge.  Maybe this is it.  Oh, wait...   "
+"there is another bridge right next to it.  And another bigger one over "
+"there..."
+msgstr ""
+
+#. [message]: id=Trixleii
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:180
+msgid "Somebody is there, so we can ask them."
+msgstr ""
+
+#. [unit]: type=Dwarvish Runesmith, id=Montas
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:187
+msgid "Montas"
+msgstr ""
+
+#. [unit]: type=Dwarvish Guardsman, id=Rholas
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:208
+msgid "Rholas"
+msgstr ""
+
+#. [unit]: type=Saurian Augur, id=Skandix
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:228
+msgid "Skandix"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:264
+msgid ""
+"Greetings.  I am Amailoss, a noble naga, sent by Lord Tulosis of the "
+"carapace guards.  I am looking for the city of Riverside and a dwarvish "
+"inventor named Montas.  Do you know where he is?"
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:268
+msgid ""
+"Aye, laddie!  I be Montas.  I requested that Lord Tulosis send some troops "
+"to deal with our unrest.  Your visit is timely indeed.  Thank you, noble "
+"naga, for coming."
+msgstr ""
+
+#. [message]: id=Skandix
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:273
+msgid ""
+"Ooh!  A noble naga? \n"
+"An egg was dissscovered here a few daysss ago.  But we don't know what "
+"kind.  The sssize is a bit bigger than oursss, but much sssmaller than a "
+"gryphon'sss.  Isss it one of yoursss?"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:278
+msgid ""
+"Is it a naga egg?  No, our eggs are all kept together in a hatchery.  I "
+"can't imagine a naga egg out here in the open."
+msgstr ""
+
+#. [message]: id=Jexxik
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:283
+msgid "Okay, okay...  mussst ssstop the monsssters!  Talk about egg later."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:287
+msgid ""
+"There be fearsome monsters about.  The lizards are trying to chase 'em off."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:292
+msgid "I see.  No worry, we will help take care of them."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:296
+msgid "A Saurian Augur, Skandix, will advance to a <i>Saurian Oracle</i> only."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:359
+msgid ""
+"Blast, almost forgot!  That blue bottle contains Potion of Bull. I made it "
+"fer myself just in case, but ye lads can have it."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:363
+msgid "Thank you.  We'll put it to good use."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:391
+msgid "Look ye!  Somethin' be happening to the egg!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:410
+msgid "... ow!"
+msgstr ""
+
+#. [unit]: type=Young Monster, id=Kozmo
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:418
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:289
+msgid "Kózmo"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:442
+msgid "Why, the egg has hatched!"
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:446
+msgid "By Thunder!  'Tis a little monster with wings!"
+msgstr ""
+
+#. [message]: id=Skandix
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:450
+msgid "Looksss like a drake.  Thossse wingsss are her handsss."
+msgstr ""
+
+#. [message]: id=Kozmo
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:454
+msgid "Oh...  feels good to stretch!  Hmmm...  Where is this?  Riverside...?"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:458
+msgid ""
+"You are right, young flyer.  We will explain, but be patient while we do "
+"something about these troublesome wild creatures."
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:479
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:926
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:123
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:202
+#: Return_of_the_Monster/utils/rotm-utils.cfg:80
+#: Return_of_the_Monster/utils/rotm-utils.cfg:94
+#: Return_of_the_Monster/utils/rotm-utils.cfg:113
+#: Return_of_the_Monster/utils/rotm-utils.cfg:140
+msgid "Death of Kózmo"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:523
+msgid "Ach...  Sir...  I canna' guard you anymore!"
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:527
+msgid "Nooo... Rholas..."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:545
+msgid ""
+"We really appreciate yer coming.  Monsters be a problem, and ogres be "
+"another headache.  Elves are peaceable, and keep ta themselves, long as we "
+"do na' violate their forest.  A few soldiers could take care of these "
+"problems.  But me?  I be just a humble inventor, and Rholas, my guard, is "
+"the only soldier hereabouts."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:551
+msgid ""
+"We really appreciate yer coming.  Monsters be a problem, and ogres be "
+"another headache.  Elves are peaceable, and keep ta themselves, long as we "
+"do na' violate their forest.  A few soldiers could take care of these "
+"problems.  But me?  I be just a humble inventor, and Rholas, my guard, was "
+"the only soldier hereabouts."
+msgstr ""
+
+#. [message]: id=Jexxik
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:557
+msgid ""
+"Yesss, we lossst many good fightersss againssst them.  Pleassse come to "
+"Riverssside cassstle, on the eassst bank."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:561
+msgid "Thank you.  You come with me, young flying monster."
+msgstr ""
+
+#. [message]: id=Kozmo
+#: Return_of_the_Monster/scenarios/05_The_Birth.cfg:565
+msgid "Kee..."
+msgstr ""
+
+#. [scenario]: id=06_New_Leader
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:4
+msgid "The New Leader"
+msgstr ""
+
+#. [part]
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:9
+msgid ""
+"Now that Amailoss and his troops were in the area, life in the city of "
+"Riverside became peaceful, and Montas was able to concentrate on research in "
+"his laboratory.  The naga presence meant that reptiles now outnumbered the "
+"other races.  Ogres are seldom happy, but the ogres and mud-crawlers of "
+"Riverside were very unhappy now that reptiles were firmly in charge of local "
+"affairs..."
+msgstr ""
+
+#. [unit]: type=Saurian Augur, id=Hezzir
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:77
+msgid "Hezzir"
+msgstr ""
+
+#. [side]: type=Ogre, id=Arkarms
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:108
+msgid "Ogres"
+msgstr ""
+
+#. [side]: type=Ogre, id=Arkarms
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:111
+msgid "Arkarms"
+msgstr ""
+
+#. [side]: type=Ancient Lich, id=Vevyan
+#. [side]: type=Chocobone, id=Captain
+#. [side]: type=Chocobone, id=Lieutenant
+#. [side]: type=Death Knight, id=Commander
+#. [side]: type=Death Knight, id=Major
+#. [side]: type=Lich, id=Colonel
+#. [side]: type=Nightgaunt, id=Spectre_3
+#. [side]: type=Spectre, id=Spectre_1
+#. [side]: type=Spectre, id=Spectre_4
+#. [side]: type=Wraith, id=Wraith_1
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:142
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:78
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:57
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:45
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:110
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:83
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:155
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:174
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:41
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:61
+msgid "Undead"
+msgstr ""
+
+#. [message]: id=Jexxik
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:162
+msgid ""
+"Kyee, Look!  Ogre approachesss.  Mussst be Arkarmsss, here to caussse "
+"trouble again."
+msgstr ""
+
+#. [message]: id=Arkarms
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:176
+msgid ""
+"He-y, snakes.  Where your flying friend?  She dead?  Too bad.  She big pain "
+"to ogres.  I come here to ask for favor."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:180
+msgid ""
+"Hello, Arkarms.  No, she is away, patrolling up north.  Let me guess what "
+"your favor is...  You want more land, I suppose?"
+msgstr ""
+
+#. [message]: id=Arkarms
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:184
+msgid "That right!  If you don't give me, I make big riot."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:188
+msgid ""
+"You have enough land already.  Don't be so greedy.  If you cause trouble, we "
+"will punish any troublemakers harshly."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:202
+msgid "You can now recruit <i>Saurian Skirmishers</i>."
+msgstr ""
+
+#. [objectives]
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:228
+msgid "A Saurian Augur, Hezzir, will advance to a <i>Saurian Oracle</i> only."
+msgstr ""
+
+#. [message]: id=Arkarms
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:316
+msgid "Uh-oh!"
+msgstr ""
+
+#. [message]: id=Wraith_1
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:320
+msgid ""
+"Made it!  Out of the pit, and back to this world.  Now, I just need a new "
+"body!"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:324
+msgid ""
+"What?  New body?  No-one here is giving you a body! \n"
+"Arkarms, think about who you should be fighting here.  You may have a "
+"quarrel with me, but there is bigger trouble nearby."
+msgstr ""
+
+#. [message]: id=Arkarms
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:329
+msgid "Ummm...  Ogres no like creepy flying things!"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:365
+#: Return_of_the_Monster/utils/rotm-utils.cfg:49
+#: Return_of_the_Monster/utils/rotm-utils.cfg:72
+msgid "Death of Arkarms"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:386
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:404
+#: Return_of_the_Monster/utils/rotm-utils.cfg:199
+msgid "Aaargh..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:390
+msgid "From here on, the death of Arkarms will result in defeat."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:417
+msgid "Aaargh...  Oh, no!  Back to the pit again!"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:421
+msgid "Hmmm...  Very strange.  Unusual to see so many ghosts."
+msgstr ""
+
+#. [unit]: type=Mudcrawler, id=Vev
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:430
+msgid "Vev"
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:440
+msgid ""
+"I know...  I know who they are...  I was the same.  I, too, needed a body."
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:444
+msgid ""
+"You, there!  With the cleaver!  You look strong enough to defeat some "
+"orcs...  Can you help me?"
+msgstr ""
+
+#. [message]: id=Arkarms
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:448
+msgid "Huh?  Me?  Yeah, ogre strong.  Way stronger than orc."
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:453
+msgid ""
+"I know where those sprits came from.  It is the place I need to be.  But "
+"there are many orcs bwtween here and there."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:457
+msgid ""
+"What?  You know where they came from?  Are you sure?  They said they want "
+"new  bodies, so we need to destroy them and stop that threat.  And orcs are "
+"unusual in this  area.  We need to push them back north to orc territory."
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/06_New_Leader.cfg:461
+msgid ""
+"Yes, I'm sure!  Sounds like you can help me, and I can help you.  Follow me, "
+"I will guide you."
+msgstr ""
+
+#. [scenario]: id=07_Orcish_Pursuers
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:4
+msgid "Orcish Persuers"
+msgstr ""
+
+#. [part]
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:9
+msgid ""
+"To prevent trouble from breaking out at Riverside, Amailoss insisted that "
+"Arkarms come along. Amailoss, the ogres and others followed the directions "
+"of the strange creature that looked like a mud-crawler. They moved at a "
+"leisurely, mud-crawler pace eastward toward the North Mountains. But as they "
+"approached the foothills...."
+msgstr ""
+
+#. [side]: type=Orcish Warrior, id=Granak
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:38
+msgid "Granak"
+msgstr ""
+
+#. [side]
+#. [side]: type=Gryphon, id=Gaakee
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:51
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:87
+msgid "Gryphons"
+msgstr ""
+
+#. [side]: type=Gryphon, id=Gaakee
+#. [unit]: type=Gryphon, id=Gaakee
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:54
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:199
+msgid "Gaakee"
+msgstr ""
+
+#. [message]: id=Arkarms
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:93
+msgid "Look!  Ogre see creepy ghosts again."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:97
+msgid ""
+"Hmmm...  yes. And there are gryphons to the south. Ghosts will be a "
+"difficult problem for the gryphons."
+msgstr ""
+
+#. [message]: id=Spectre_1
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:110
+msgid "I need a body..."
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:114
+msgid "Aha!  I was just like him!  Then I had to use this dead mud-crawler..."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:118
+msgid "So what you are looking for now? "
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:122
+msgid ""
+"My real body, sir. It has been imprisoned in the same place that those  "
+"spirits come from..."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:126
+msgid "Orcs imprisoned your dead body?  I still do not understand..."
+msgstr ""
+
+#. [message]: id=Granak
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:227
+msgid ""
+"Aw'right, I found some o' dem. Maybe one is da spirit we looking for. Or "
+"maybe he is around here."
+msgstr ""
+
+#. [message]: id=Granak
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:233
+msgid "I saw spirits... So maybe da one we looking for is around here."
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:239
+msgid ""
+"Oh, no! They are looking for me. See! Now, you can trust me, can't you?."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:243
+msgid ""
+"This is still hard to understand, but we must chase them off.  They are not "
+"supposed to be here."
+msgstr ""
+
+#. [message]: id=Kozmo
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:302
+msgid "Hello, naga friends! I've spotted orcs prowling around Riverside lands."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:306
+msgid ""
+"Greetings, Kózmo! You are right. They seem to be following some ghosts or "
+"spirits."
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:310
+msgid "Oh, yes! They are trying to kill me."
+msgstr ""
+
+#. [message]: id=Kozmo
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:314
+msgid "...!"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:345
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:562
+msgid "Whew! Good work, all of you!"
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:354
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:571
+msgid "Fire 'n Thunder!  What be all that ruckus?"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:359
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:577
+msgid ""
+"Oh, Montas! Sorry we disturbed you. We forgot that you worked nearby. Undead "
+"things have been appearing, and they intended to steal the bodies of "
+"Riverside folk! We were battling them. This mud-crawler says he knows where "
+"they come from, and will guide us there so we can stop them."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:363
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:581
+msgid ""
+"Undead, ye say? Be careful, laddie. Dangerous they are. 'Tis rare they come "
+"around here. And 'tis odd that a mud-crawler would know such things."
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:373
+msgid ""
+"Orcs killed me. After that, my spirit found this dead body, and I have been  "
+"using it to search for help."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:377
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:595
+msgid "Ah, I see. So ye never were a mud-crawler?"
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:381
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:599
+msgid "No... I was a handsome man... named Vev..."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:386
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:604
+msgid ""
+"Vev? Hmmm... Sounds familiar, but I canna say from where. \n"
+"Perhaps I can help on yer quest. This special sword be a fearsome weapon "
+"against undead. Choose a good swordsman to wield it. Gaakee! Please deliver "
+"this sword to 'em."
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:418
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:636
+msgid "Move one of units to the sword"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:445
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:663
+msgid "This magical sword gives a unit an extra melee attack."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:450
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:668
+msgid "Should I take this sword?"
+msgstr ""
+
+#. [effect]: type=arcane
+#. [object]: id=phantobane
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:460
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:505
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:678
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:723
+msgid "phantobane"
+msgstr ""
+
+#. [object]: id=phantobane
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:461
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:679
+msgid "This magical sword equips 'arcane' damage type."
+msgstr ""
+
+#. [object]: id=phantobane
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:469
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:687
+msgid "This is useful only to a warrior that is high skilled with swords."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:479
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:697
+msgid "Wow!"
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:483
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:701
+msgid ""
+"Send word if ye need help. Busy I am right now, but Gaakee can fly me "
+"anywhere quickly."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:487
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:705
+msgid ""
+"We are grateful, Montas, for your wise counsel and your useful gift. We will "
+"not send word unless we face grave danger."
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/07_Orcish_Pursuers.cfg:591
+msgid ""
+"Orcs killed me. After that, my spirit found this dead body, and I have been "
+"using it to search for help."
+msgstr ""
+
+#. [scenario]: id=08_Over_the_Valley
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:4
+msgid "Over the Valley"
+msgstr ""
+
+#. [part]
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:9
+msgid ""
+"Vev, the strange mud-crawler, led Amailoss and company to mountains that lay "
+"east of Misty Forest. The mud-crawler seemed to naturally choose a route "
+"that stayed close  to streams, small lakes, and wet spots, which helped the "
+"nagas on their journey inland. However, the route took them near some "
+"trouble that was unexpected...."
+msgstr ""
+
+#. [side]: type=Troll Warrior, id=Troll Warrior
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:39
+msgid "Troll Warrior"
+msgstr ""
+
+#. [side]: type=Troll Shaman, id=Troll Shaman
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:59
+msgid "Troll Mage"
+msgstr ""
+
+#. [side]: id=Kon Garashe, type=Drake Flare
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:75
+msgid "Drakes"
+msgstr ""
+
+#. [side]: id=Kon Garashe, type=Drake Flare
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:77
+msgid "Kon Garashé"
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:100
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:223
+msgid "Move Vev to the signpost"
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:153
+msgid ""
+"At the upper end of this valley, there is a cave. Inside, there is a cavern  "
+"where spirits gather. That cavern is the place that the undead come from."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:157
+msgid "Okay, you guide us. We will protect you."
+msgstr ""
+
+#. [message]: id=Kon Garashe
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:189
+msgid ""
+"Hey, friends from Riverside! I have been patrolling this area. Do you need "
+"assistance?"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:193
+msgid ""
+"Greetings, Drakes! There are more trolls here than we expected. Some aid "
+"would be a great help!"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:227
+msgid "Death of Kon Garashé"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:297
+msgid "Oh, no! This is not supposed be happening!"
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:313
+msgid "This way, folks."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:317
+msgid ""
+"Thanks, Drakes. We are following this mud-crawler, who is showing us the way "
+"to the lair of some undead that have attacked us. We should be back home "
+"shortly."
+msgstr ""
+
+#. [message]: id=Kon Garashe
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:321
+msgid ""
+"Battling undead? It is not easy to win such a fight. Take along one of my "
+"brave Drakes. He will surely be a help."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/08_Over_the_Valley.cfg:325
+msgid "You are very generous. Thank you."
+msgstr ""
+
+#. [scenario]: id=09_Spiritual_Zone
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:4
+msgid "Spiritual Zone"
+msgstr ""
+
+#. [part]
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:9
+msgid ""
+"The party approached the cave entrance at the high end of the mountain "
+"valley. It was cold, and there was much snow around. According to the mud-"
+"crawler, there was a  spiritual spot somewhere inside the cave...."
+msgstr ""
+
+#. [side]: type=Orcish Slurbow, id=Boshnak
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:46
+msgid "Boshnak"
+msgstr ""
+
+#. [side]: type=Ghast, id=Ghast
+#. [side]: type=Necrophage, id=Necrophage
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:167
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:197
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:79
+msgid "Ghouls"
+msgstr ""
+
+#. [side]: type=Ghast, id=Ghast
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:170
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:82
+msgid "Ghast"
+msgstr ""
+
+#. [side]: type=Necrophage, id=Necrophage
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:200
+msgid "Necrophage"
+msgstr ""
+
+#. [side]: type=Ancient Lich, id=Vevyan
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:219
+msgid "Undead Lord"
+msgstr ""
+
+#. [side]: type=Ancient Lich, id=Vevyan
+#. [unit]: type=Ancient Lich, id=Vevyan
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:222
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:1004
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:44
+msgid "Vevyan"
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:241
+msgid "Defeat the orc leader"
+msgstr ""
+
+#. [unit]: type=Drake Burner, id=Garashan
+#. [unit]: type=Drake Flare, id=Grashan
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:268
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:282
+msgid "Garashan"
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:364
+msgid ""
+"We are almost there. Do you see the sign ahead? That is the southern "
+"entrance to the cave."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:368
+msgid "Let's get in."
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:372
+msgid "Be careful. There are orc guards watching the entrance."
+msgstr ""
+
+#. [message]: id=Boshnak
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:424
+msgid "Strangers! How youse get in here? Everyone up! Smash dem!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:458
+msgid "Aaargh... Why nagas attack us in this cave..."
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:470
+msgid "Aha! That must be the tablet I seek! Let me take it."
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:475
+msgid "Move Vev on the tablet"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:514
+msgid "Yes, this is it! Now I just need to move on the sign."
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:561
+msgid "Move Vev onto the rune-sign"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:581
+msgid "Hmmm..."
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:585
+msgid "Let me take it! I don't think you know how to use it."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:616
+msgid "You gain a bonus of 100 golds."
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:661
+msgid ""
+"Hmmm... too little power... Maybe a Mudcrawler is not strong enough. "
+"Arkarms, I need your help. Please stand on the other sign."
+msgstr ""
+
+#. [message]: id=Arkarms
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:665
+msgid "Eh, me? Okay..."
+msgstr ""
+
+#. [message]: id=Kozmo
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:669
+msgid "Why is Arkarms needed?"
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:673
+msgid ""
+"Ah... Well... He is strong, and has much energy. So he can help make it "
+"happen. Not a big deal."
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:678
+msgid "Move Arkarms onto the rune-sign"
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:708
+msgid "Good! That feels right! All will be well in a few moments."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:758
+msgid "Noooo... Arkarms!"
+msgstr ""
+
+#. [message]: id=Vevyan
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:762
+msgid ""
+"Hahaha... Excellent! Thank you for defeating the orcs and bring me here. To "
+"show my appreciation, here is some advice for you:  Run away!"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:779
+msgid "You vile deceiver! Change Arkarms back to normal!"
+msgstr ""
+
+#. [message]: id=Vevyan
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:783
+msgid ""
+"Unfortunately, the answer is NO. I needed his energy to return this world, "
+"and I will not give it back. Somehow, those devious orcs had figured out "
+"that I was trying to materialize in this cavern with some kindred ghost-"
+"sprits. They laid a trap, and took my magical power before it became stable "
+"and sealed it in the tablet. It was a good try. But they didn't completely "
+"destroy the tablet. They tried to kill my sprit, but I was able to out-run "
+"them. Hahaha."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:787
+msgid ""
+"But you were just a Mud-crawler                             when we met you."
+msgstr ""
+
+#. [message]: id=Vevyan
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:791
+msgid ""
+"Yes, I was. My escape was due to quick thinking. Orcs cannot move well in "
+"water and swamps, so the spirits and I escaped from the cave by using "
+"terrain where we were fast and they were slow. After that, when I arrived in "
+"your area, I got lucky and encountered a mud-crawler. I killed him and used "
+"his body. And then a simple mud-crawler asked for your help in defeating "
+"some orcs. Hahaha. It was a good fake, don't you think?   Now, I tell you "
+"again to leave here before my soldiers attack. They are not gentlemen like I "
+"am."
+msgstr ""
+
+#. [message]: id=Jexxik
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:795
+msgid "You lied and usssed usss!  We don't run away.  We destroy you Vev!"
+msgstr ""
+
+#. [message]: id=Vevyan
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:799
+msgid ""
+"The name is Vevyan, you silly lizard. And okay, if you don't want to leave, "
+"I can grant your request. Stay here forever! Hahaha... HAAAH!"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:855
+msgid "Noooo! Jexxik!"
+msgstr ""
+
+#. [message]: id=Kozmo
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:859
+msgid "Run! Find the exit! We are not strong enough to defeat all of them."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:863
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:522
+msgid "Ummm..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:871
+msgid ""
+"Because Vevyan turned Arkarms and Jexxik to stones, you can no longer "
+"recruit <i>Young Ogres</i>, <i>Saurian Skirmishers</i>."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:896
+msgid ""
+"Click! Click, click! <small><i>Here! The exit is right here!</i></small>"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:902
+msgid "Here! The exit is right here!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:918
+msgid "Move someone to the exit"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:982
+msgid "Hahaha... A silly attempt..."
+msgstr ""
+
+#. [scenario]: id=10_The_Escape
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:4
+msgid "The Escape"
+msgstr ""
+
+#. [part]
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:9
+msgid ""
+"Amailoss and his forces had escaped from the cave, but they were still in "
+"serious trouble...."
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:115
+msgid "Move Amailoss to the signpost"
+msgstr ""
+
+#. [objectives]
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:130
+msgid "Unable to recruit after the end of the second turn."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:181
+msgid ""
+"I cannot believe how gullible we were. We behaved like youngsters. I am "
+"ashamed that we believed that story of his, and were then too weak to defeat "
+"him."
+msgstr ""
+
+#. [message]: id=Kozmo
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:185
+msgid ""
+"I hate to say this, but there is nothing we can do here right now. The only "
+"sensible thing we can do is to escape as soon as possible. Even so, they "
+"will probably follow us."
+msgstr ""
+
+#. [message]: id=Kozmo
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:265
+msgid "Look! They are coming!"
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:392
+msgid ""
+"Amailoss! I heard where ye be from some Drakes. I have news, laddie! That  "
+"mud-crawler be an ancient undead lord, named Vevyan. An old dwarvish book "
+"mentioned 'im.   I dinna know how they did it, but orcs bottled up his "
+"magical powers. Ye may have already  released that magic, so I brought some "
+"gryphons and gryphons-wagons. So we can get yer  fighters out of here. I "
+"also sent a gryphon messenger to yer old home, to see if we can  get more "
+"help."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:396
+msgid ""
+"Thank you, Montas! I don't think we could outrun these skeletons on our own. "
+"But where we can go? \n"
+"Vevyan turned Jexxik and Arkarms into stone statues, and we aren't strong "
+"enough to defeat his army, even if all the northern nagas join us. How can "
+"we improve our chances of victory? can you think of a way to rescue our "
+"friends? Arkarms has been a headache for a long time, but I hate the thought "
+"of leaving him in those caves."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:401
+msgid ""
+"Well, let's see. Orcs might have an idea. There be a powerful orc wizard in "
+"the city of Farzi. It be far from here, but maybe we should ask him."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:405
+msgid ""
+"Montas, it won't be that simple. We've killed so many orcs on this journey "
+"that they are sure to hate us, I think."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/10_The_Escape.cfg:409
+msgid ""
+"Hmmm.... As I suspected. So, we sneak in to see him. Follow me, I have an "
+"idea. We go to the Greenwood first."
+msgstr ""
+
+#. [scenario]: id=11_Old_Friends
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:4
+msgid "Old Friends"
+msgstr ""
+
+#. [part]
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:9
+msgid ""
+"Dwarves are long-lived creatures, and Montas had known the Greenwood elves "
+"for a long, long time. The elves might loan him a boat, and a boat would "
+"allow a small force to sneak into the city of Farzi almost unseen. Arriving "
+"by gryphon would be seen by all of Farzi, but a river arrival would attract "
+"little attention...."
+msgstr ""
+
+#. [unit]: type=Gryphon Wagon, id=Caakee
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:32
+msgid "Caakee"
+msgstr ""
+
+#. [side]
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:39
+msgid "Elves"
+msgstr ""
+
+#. [unit]: type=Elvish Captain, id=Cel-Cryndel
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:54
+msgid "Cel-Cryndel"
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:122
+msgid ""
+"Okay, elves have a small port nearby, and this stream goes north to Farzi.  "
+"I know these elves from way back, so I think they'll help. Just wait here, "
+"okay? Let me chat with 'em and get a boat to take us north."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:126
+msgid ""
+"Good. We'll stay out of sight. By the way, Kózmo keeps mentioning a shining "
+"star above us. I don't know what she is talking about. Can you see it?"
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:130
+msgid "A star? What star? I see nothing. It be broad daylight."
+msgstr ""
+
+#. [message]: id=Kozmo
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:134
+msgid "Eh...?"
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:207
+msgid ""
+"Hello, Greenwood elves! I hope yer forest treats ye well. I be Montas, from "
+"Riverside, southwest o' here. Is your captain about?"
+msgstr ""
+
+#. [message]: id=Cel-Cryndel
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:214
+msgid ""
+"Greetings, Montas the Inventor. I was injured some years ago, so I hope you "
+"still recognize me. It is nice to see you again, old friend."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:218
+msgid ""
+"Ah... Captain Cel-Cryndel! Indeed I recognize ye, and handsome as ever ye "
+"are. Seein' ye makes me happy. I be on a mission, and I come here to ask yer "
+"help. Could you loan me one of your boats? A wee, small one would be best."
+msgstr ""
+
+#. [message]: id=Cel-Cryndel
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:222
+msgid ""
+"I'd be happy to loan you our newest and best. But if you just want a small "
+"one, you can take that one over there. You don't even have to return it. No-"
+"one wants to use it anymore, but it is still solid and reliable and fast."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:226
+msgid "Thank you, old friend! That be excellent. In your debt I am."
+msgstr ""
+
+#. [message]: id=Cel-Cryndel
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:230
+msgid ""
+"No, friends enjoy helping friends, Montas. Can you take a break and spend "
+"some time and share your news with us?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:241
+msgid ""
+"Montas visited with the elves for a while, but then grew increasingly "
+"anxious to get underway. Everyone, except Kózmo and the nagas, clambered "
+"into the  boat, and they sailed north toward the city of Farzi..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/11_Old_Friends.cfg:248
+msgid ""
+"Montas visited with the elves for a while, but then grew increasingly "
+"anxious to get underway. Everyone, except Kózmo, Garashan, and the nagas, "
+"clambered into the  boat, and they sailed north toward the city of Farzi..."
+msgstr ""
+
+#. [scenario]: id=12_Into_Farzi
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:4
+msgid "Into Farzi"
+msgstr ""
+
+#. [part]
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:9
+msgid ""
+"The sail from Greenwood to Farzi was not a short one. While Amailoss and "
+"company were enroute, Divaloss and some carapace-guards came down from the "
+"north and rendezvoused with the boat just south of Farzi. Farzi was not only "
+"an orcish city, but many orc tribes made their home on the island..."
+msgstr ""
+
+#. [side]: type=Orcish Warlord, id=Orongayga
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:45
+msgid "Orongayga"
+msgstr ""
+
+#. [side]: type=Orcish Warlord, id=Orongayga
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:46
+msgid "Local Orcs"
+msgstr ""
+
+#. [side]: type=Goblin Rouser, id=Eragor
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:97
+msgid "Eragor"
+msgstr ""
+
+#. [side]: type=Goblin Pillager, id=Prart
+#. [side]: type=Goblin Rouser, id=Eragor
+#. [side]: type=Goblin Rouser, id=Hoshnak
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:98
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:127
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:99
+msgid "Goblins"
+msgstr ""
+
+#. [side]: type=Goblin Pillager, id=Prart
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:130
+msgid "Prart"
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:149
+msgid "Move the boat onto the sign"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:153
+msgid "Destruction of the boat"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:210
+msgid ""
+"The city of Farzi be right there before us! Sneak onto that island we must. "
+"Remember: our purpose be to see an Orcish Wizard named Zooke, not cause "
+"bloodshed in the area. News of reptile havoc in the spirit cavern has "
+"probably reached Farzi by now. So reptiles will not be welcomed here. \n"
+"Locals say the wizard be usually found in a courtyard in the basement under "
+"the city. So, avoid battles if possible, and get into the basement."
+msgstr ""
+
+#. [message]: id=Divaloss
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:216
+msgid ""
+"I heard a rumor that the wizard killed our great leader, Ixyndara. But "
+"according to local nagas, Ixyndara froze himself after talking to Zooke. I "
+"do not understand why, though. Since then, the orcs have been unusually "
+"calm, and not aggressive. Queen Hassalia was confident enough to let me come "
+"join you."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:220
+msgid "Hmmm... Strange events. But I am very glad to see you again, Divaloss."
+msgstr ""
+
+#. [message]: id=Kozmo
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:224
+msgid "(whisper) Ixyndara?"
+msgstr ""
+
+#. [message]: id=Divaloss
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:228
+msgid ""
+"Amailoss, who is the flying monster that accompanies you? My senses cause "
+"feelings in me that are similar to what I receive from Ixyndara."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:232
+msgid ""
+"Well, I know she was hatched at Riverside. I was there. We don't know "
+"anything about her parents, but she has a strong sense of honor and justice, "
+"like the drakes do. Riverside is now her home, and she is now a key member "
+"of my fighting force."
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:291
+msgid "Move Amailoss to the entrance of the basement"
+msgstr ""
+
+#. [message]: id=Prart
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:326
+msgid "Strangers! Goblins! Swarm dem!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:386
+msgid "Aaargh... Emergency Alert..."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:408
+msgid ""
+"Uh-oh. That be bad for us. Move quickly, before the main force gets here!"
+msgstr ""
+
+#. [message]: id=Orongayga
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:474
+msgid "What the heck are you? Orcs! Smash dose worms and crawlers!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:495
+msgid "Aaargh... This should not be happened..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:509
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:843
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:262
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:496
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:441
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1115
+msgid "Aaack... This may not be a good time for me..."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:527
+msgid "Okay, follow me."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:541
+msgid "You have not deployed your troop yet."
+msgstr ""
+
+#. [scenario]: id=13_Orcish_Wizard
+#. [unit_type]: id=Orcish Wizard, race=orc
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:4
+#: Return_of_the_Monster/units/Orcish_Wizard.cfg:4
+msgid "Orcish Wizard"
+msgstr ""
+
+#. [side]: type=Orcish Slayer, id=Gushnak
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:42
+msgid "Gushnak"
+msgstr ""
+
+#. [side]: type=Orcish Slayer, id=Gushnak
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:43
+msgid "Orc Mages"
+msgstr ""
+
+#. [side]: type=Goblin Rouser, id=Hoshnak
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:97
+msgid "Hoshnak"
+msgstr ""
+
+#. [side]: type=Bw Hydra, id=Orocleii
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:121
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:120
+msgid "Orocleii"
+msgstr ""
+
+#. [side]: type=Bw Hydra, id=Orocleii
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:122
+msgid "Serpents"
+msgstr ""
+
+#. [side]
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:139
+msgid "Orcish Mages"
+msgstr ""
+
+#. [side]: type=Orcish Depthstalker, id=Sapient
+#. [unit]: type=Orcish Depthstalker, id=Sapient
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:147
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:41
+msgid "Sapient"
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:165
+msgid "Find Master Zooke"
+msgstr ""
+
+#. [message]: speaker=Montas
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:207
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:214
+msgid "Orcs are coming! We must be hurry!"
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:223
+msgid ""
+"Move quickly, lads! The blasted orcs will mob us. Find Master Zooke we "
+"must.  He'll be the one to help us."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:227
+msgid "He must! I have to rescue Jexxik and Arkarms."
+msgstr ""
+
+#. [message]: id=Divaloss
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:231
+msgid ""
+"This feels strange, Amailoss. I cannot tell who is there, but I sense energy "
+"in the south..."
+msgstr ""
+
+#. [effect]: type=pierce
+#. [object]: id=arc_spear
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:246
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:247
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:274
+msgid "arc spear"
+msgstr ""
+
+#. [object]: id=arc_spear
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:258
+msgid "This is useful only to a warrior that is highly skilled with spears."
+msgstr ""
+
+#. [message]: speaker=Montas
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:268
+msgid "Ooh, good craftsmanship! Looks very light and well made."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:367
+msgid "Somebody is there! Master Zooke?"
+msgstr ""
+
+#. [message]: id=Sapient
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:375
+msgid ""
+"Zooke? No, I am not Zooke. If you seek Zooke, you are in the wrong place. He "
+"is busy with the birth of a new colt right now. His favorite horse died some "
+"days ago, so this birth is special for him. I am going there to help him "
+"celebrate now."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:441
+msgid "Wait! Can you tell us where he is?"
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:445
+msgid ""
+"I'll tell ye, laddie... He's a strange orc. Orcs dinna use magic like that."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:482
+msgid ""
+"Hydra...? Slaved by orcs...?  \n"
+"Be gone! We will take care of the orcs here. You should be free."
+msgstr ""
+
+#. [message]: id=Orocleii
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:487
+msgid ""
+"... Ohhh... Thank... you...  \n"
+"Why... are... you... here...?"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:492
+msgid "We've come to speak with Master Zooke. Do you know where he is?"
+msgstr ""
+
+#. [message]: id=Orocleii
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:496
+msgid ""
+"Aah, he... is in... the courtyard...  \n"
+"But... you need... to kill... his guard... to see him..."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:589
+msgid "Uh-oh. The walls be moving."
+msgstr ""
+
+#. [message]: id=Gushnak
+#. [message]: id=Hoshnak
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:616
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:706
+msgid "Uh! Strangers! To arms!"
+msgstr ""
+
+#. [message]: id=Gushnak
+#. [message]: id=Hoshnak
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:659
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:750
+msgid "Uh! Seems like a rebellion of Serpents! To arms!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:802
+msgid "Aaargh... I am no longer... fit for duty..."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:893
+msgid "Oh, somebody is there! Are you Master Zooke?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:900
+msgid "Shhhh...! The time has come. The young one is being born..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:920
+msgid "Neeeeiiigh...!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:955
+msgid ""
+"<big>Oooh, piebald!</big> That's a stroke of good luck...! \n"
+"Birth is beautiful, isn't it? And I'm always surprised that horses can stand "
+"up as soon as they are born."
+msgstr ""
+
+#. [message]: id=Amailoss
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:961
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:965
+#: Return_of_the_Monster/scenarios/18_Epilogue.cfg:167
+msgid "...?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:983
+msgid ""
+"Now, you strangers... I'm sure you didn't come to celebrate the birth of my "
+"horse. Silverstar, my fleet-footed horse for many years, passed away a few "
+"days ago. Old age, I'm afraid. But his son has just been born...  Silverstar "
+"was the fastest creature around here, so I'm hoping that this young one will "
+"carry me as fast, or even faster. But that cannot be why you are here. I am "
+"Master Zooke, the principal of orc-mages. Please tell me why you have come."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:988
+msgid "Amailoss, Kózmo, and Montas told Zooke everything..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:993
+msgid ""
+"Oh, no! You helped Vevyan escape? And he appeared as an undead lord? \n"
+"Hmmm... Lord Erishnak II was supposed to destroy that tablet. The undead "
+"spells were sealed away inside. Evidently Erishnak did not do as he "
+"promised. If the tablet were destroyed, Vevyan would never be able to re-"
+"appear this way. There was news recently that his sprit had escaped from the "
+"cave, but we never imagined that he could take over the body of a dead "
+"creature...\n"
+"We must go see the Snow Fairy, Sil-Celadë, my old partner. She has the "
+"sceptre that shuts down the stone curse magic. I haven't seen her for quite "
+"a while, though..."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:1000
+msgid "Eh...? You don't have it, sir?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:1007
+msgid ""
+"No, not anymore. When we worked together, she was always nearby, so the "
+"sceptre was always close by. But when her mother died, she returned to the "
+"mountains, and  it is cold there for me.  Ah well, there's no other answer.  "
+"We must go to the mountains. That is the only way to stop him. It is not a "
+"long journey, and it will be good to visit my daughter as well."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/13_Orcish_Wizard.cfg:1012
+msgid "Aye... And we'll come along to protect ye, good wizard."
+msgstr ""
+
+#. [scenario]: id=14_Snow_Queen
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:4
+msgid "Snow Queen"
+msgstr ""
+
+#. [part]
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:9
+msgid ""
+"The orcish wizard was not scary at all; he was actually more friendly than  "
+"anyone expected. The wizard knew the location of a sceptre that could cancel "
+"Vevyan's stone curse magic, and promised to lead them to it. Amailoss, "
+"Kózmo, Montas and the others followed Master Zooke north, to the Heart "
+"Mountains, east of Farzi. Their mission was to speak to a snow sorceress who "
+"ruled the region..."
+msgstr ""
+
+#. [unit]: type=Orcish Sorcerer, id=Zooke
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:36
+msgid "Master Zooke"
+msgstr ""
+
+#. [side]: type=Ice Fairy, id=Sil-Celade
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:49
+msgid "Snow Fairies"
+msgstr ""
+
+#. [side]: type=Ice Fairy, id=Sil-Celade
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:53
+msgid "Sil-Celadë"
+msgstr ""
+
+#. [side]: type=Yeti, id=Snowman
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:109
+msgid "Yetis"
+msgstr ""
+
+#. [side]: type=Yeti, id=Snowman
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:113
+msgid "Snowman"
+msgstr ""
+
+#. [side]: type=Troll Warrior, id=Tagg
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:142
+msgid "Troll Warriors"
+msgstr ""
+
+#. [side]: type=Troll Warrior, id=Tagg
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:146
+msgid "Tagg"
+msgstr ""
+
+#. [side]: type=Troll Shaman, id=Agg
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:159
+msgid "Troll Shamans"
+msgstr ""
+
+#. [side]: type=Troll Shaman, id=Agg
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:163
+msgid "Agg"
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:177
+msgid ""
+"Sil-Celadë is over those mountains. We have to be careful of her yetis,  "
+"though. They are very dangerous, and they were not very nice to me the last "
+"time I was  here."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:181
+msgid "Ah! But good news... there be Trolls as well!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:185
+msgid "Well trained <i>Goblin Spearmans</i> are available to recruit."
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:194
+msgid "Find Snow Sorceress"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:210
+#: Return_of_the_Monster/utils/rotm-utils.cfg:121
+#: Return_of_the_Monster/utils/rotm-utils.cfg:148
+msgid "Death of Master Zooke"
+msgstr ""
+
+#. [objectives]
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:217
+msgid "Hint: Use Kózmo effectively."
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:289
+msgid "Sil-Celadë!"
+msgstr ""
+
+#. [message]: id=Sil-Celade
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:297
+msgid "Who is that? Zooke?"
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:310
+msgid ""
+"Yes, my dear, it is Zooke. Greetings, I have missed you. I brought some new "
+"friends here to ask you for some help. The undead lord, Vevyan, has come "
+"again. And your septre is needed to shut down his stone curse magic."
+msgstr ""
+
+#. [message]: id=Sil-Celade
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:314
+msgid ""
+"Oh no! How did that happen? We captured his powers and destroyed them long, "
+"long ago..."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:318
+msgid "Ah... Ma'am, it was actually my fault..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:322
+msgid ""
+"Amailoss and Kózmo explained everything that had happened. Sil-Celadë was "
+"unhappy to hear their story. But she brightened when her daughter emerged "
+"from the fog."
+msgstr ""
+
+#. [unit]: type=Snow Sorceress, id=Deliowen
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:331
+msgid "Deliowen"
+msgstr ""
+
+#. [message]: id=Deliowen
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:350
+msgid ""
+"Father! How wonderful to see you! Mother, that undead creature needs to be "
+"destroyed, and we can surely help.  I know you can't leave right now, but I "
+"could go with father. I know how to use the sceptre, and it would be good to "
+"spend some days with him.  May I go along and help?"
+msgstr ""
+
+#. [message]: id=Sil-Celade
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:354
+msgid ""
+"I don't know... Vevyan is dangerous. Too dangerous for you alone. But if you "
+"take Celicy along to guard you; and listen well to the advice of these "
+"experienced fighters; it would probably do you good to gain some battle "
+"experience. Zooke, take extra good care of your daughter, agreed?"
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:358
+msgid ""
+"Of course, Sil-Celadë! She is our precious daughter. And it will be a "
+"pleasure to spend some days with her."
+msgstr ""
+
+#. [scenario]: id=15_Invasions
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:4
+msgid "Invasions"
+msgstr ""
+
+#. [part]
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:9
+msgid ""
+"With the help of Master Zooke and his family, the force was now adequate to "
+"deal with Vevyan, the undead lord. But they were far away from the cave "
+"where Vevyan had  last been seen. So Montas called his friends, the "
+"Gryphons, again..."
+msgstr ""
+
+#. [unit]: type=Yeti, id=Celicy
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:32
+msgid "Celicy"
+msgstr ""
+
+#. [side]: type=Cuttle Fish, id=Beast
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:76
+msgid "Mularm"
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:130
+msgid "Defeat the undead leader"
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:170
+msgid ""
+"Friends, we must travel fast, so we must fly. Sent word to the gryphons I "
+"have, and asked them to bring their flying baskets. But surely there's no "
+"basket big enough, and no gryphon strong enough, for the snowman."
+msgstr ""
+
+#. [message]: id=Celicy
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:184
+msgid "Grrrrr..."
+msgstr ""
+
+#. [message]: id=Deliowen
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:188
+msgid ""
+"Celicy can run for very long distances over the snow, as fast as a wolf can. "
+"So he will travel almost as fast as we will. And since Mother ordered it, "
+"he'll follow us even if we leave him here."
+msgstr ""
+
+#. [message]: id=Kozmo
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:192
+msgid "The star that I've been watching seems brighter today..."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:196
+msgid ""
+"I still cannot see it, Kózmo...  But I can see this army of ours, and I am "
+"very proud of these troops.  At last we can fight that undead lord on an "
+"even basis, and we might even have an advantage."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:206
+msgid "Uh-oh! Undead. And they be everywhere already."
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:210
+msgid ""
+"We cannot ignore them. It's too dangerous. We must destroy them all before "
+"we depart. "
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:255
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:306
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:353
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:400
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:447
+msgid "Where's my hammer? Undead be here already."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:261
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:312
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:359
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:406
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:453
+msgid "Uh-Oh!"
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:265
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:316
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:363
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:410
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:457
+msgid "Watch yerself! Undead be there already."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:478
+msgid "Blast! They've captured a whole Drake's troop there."
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:482
+msgid ""
+"We need to destroy them all. We can't risk letting the news get back to "
+"Vevyan."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:516
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:599
+msgid "Gryphons will be here any minute. We should hurry."
+msgstr ""
+
+#. [message]: id=Gaakee
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:554
+#: Return_of_the_Monster/scenarios/15_Invasions.cfg:636
+msgid "Gaaah..."
+msgstr ""
+
+#. [scenario]: id=16_Reinforcements
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:4
+msgid "The Reinforcements"
+msgstr ""
+
+#. [part]
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:9
+msgid ""
+"Amailoss and his party landed before getting too close to the cave. Zooke's "
+"plan was to sneak to the cave on land and enter through a little-known "
+"entrance.  Hopefully,  they could do so without being spotted by the undead. "
+"But as they neared the cave, they found some orc allies, led by Sapient, "
+"already battling some of the undead forces that were guarding the cave..."
+msgstr ""
+
+#. [side]: type=Orcish Depthstalker, id=Sapient
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:42
+msgid "Orc Supporters"
+msgstr ""
+
+#. [side]: type=Death Knight, id=Major
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:81
+msgid "Major"
+msgstr ""
+
+#. [side]: type=Goblin Rouser, id=Hushnak
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:130
+msgid "Hushnak"
+msgstr ""
+
+#. [side]: type=Goblin Rouser, id=Hushnak
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:131
+msgid "Goblin Supporters"
+msgstr ""
+
+#. [side]: type=Chocobone, id=Captain
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:153
+msgid "Captain"
+msgstr ""
+
+#. [side]: type=Chocobone, id=Lieutenant
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:172
+msgid "Lieutenant"
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:190
+msgid ""
+"Good. Sapient has arrived already. But... Sapient, why so few? Where is the "
+"mighty orc army?"
+msgstr ""
+
+#. [message]: id=Sapient
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:194
+msgid ""
+"Zooke! Orcs not happy to work wid nagas. I told Lord Erishnak that you "
+"coming, but Erishnak stubborn. His son, Prince Erulo, still missing after "
+"undead took over cave. Lord Erishnak thinks it is naga's fault."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:198
+msgid ""
+"A Prince...? I don't recall seeing an orc prince when we were in the cave."
+msgstr ""
+
+#. [message]: id=Sapient
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:202
+msgid ""
+"He was boss of force watching cave. Should have been nearby when nagas broke "
+"in and made a mess."
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:206
+msgid ""
+"Well, that's all behind us. I'm happy to find you and your force here. It "
+"means we shouldn't have too much trouble taking the next step."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:228
+msgid "Aye, but it won't be easy. Those undead critters be all around here."
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:232
+msgid ""
+"We should avoid the normal cave entrance. I know an entrance to a hidden "
+"side tunnel, and I'm sure the undead don't know about it. Let's have Sapient "
+"keep the undead army busy, while we slip past and get to the tunnel opening."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:236
+msgid "A sound plan. Show us the way, and we'll guard you from harm, sir."
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:258
+msgid "Move Master Zooke on the sign"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:262
+msgid "Loss of Sapient"
+msgstr ""
+
+#. [objectives]
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:266
+msgid "extra bonus by defeating each enemy leader"
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:373
+msgid ""
+"That's one of the well known entrances to the cave. If we use that, we're "
+"sure to face a large force of undead. Let's continue toward the side tunnel."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:386
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1067
+msgid "I lost my interest to battle. Take care, Zooke."
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:428
+msgid "Without the orcs to help us, we won't get into the cave safely."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:462
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:518
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:574
+msgid "You gain a bonus of 100 gold!"
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:613
+msgid "Here it is! Follow me! This will lead us deep into the cave."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:617
+msgid "At last! Let's rescue Jexxik and Arkarms."
+msgstr ""
+
+#. [message]: id=Sapient
+#: Return_of_the_Monster/scenarios/16_Reinforcements.cfg:627
+msgid "Me, too! Guard duty boring."
+msgstr ""
+
+#. [part]
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:9
+msgid ""
+"Master Zooke showed everyone how to slip into the side tunnel. It took them "
+"deep underground, through parts of the cave that seemed to be deserted. "
+"Meanwhile, the  star above Kózmo was shining more brightly than ever..."
+msgstr ""
+
+#. [side]: type=Lich, id=Colonel
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:64
+msgid "Colonel"
+msgstr ""
+
+#. [side]: type=Bw Hydra, id=Orocleii
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:121
+msgid "Snakes"
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:136
+msgid ""
+"Ahh... as I thought. The undead don't seem to have found this part of the "
+"cave. Long ago, we tried to build a railroad here, but there was just too "
+"much water."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:140
+msgid ""
+"Perhaps so, but this feels very nice to us.  Look!  A holy water is still "
+"over there. The undead would surely destroy it, if they knew it was here. "
+"Perhaps we can use it."
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:144
+msgid ""
+"Amailoss, there are other, larger castles north of here. So we don't need to "
+"form up the whole army right now."
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:152
+msgid "Take the holy water"
+msgstr ""
+
+#. [message]: id=Divaloss
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:254
+msgid "Um...! Somebody is there!"
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:260
+msgid "Look, lads! 'Tis some orcs there!"
+msgstr ""
+
+#. [unit]: type=Orcish Leader, id=Erulo
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:273
+msgid "Prince Erulo"
+msgstr ""
+
+#. [unit]: type=Orcish Crossbowman, id=Vulg
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:287
+msgid "Vulg"
+msgstr ""
+
+#. [message]: speaker=Vulg
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:300
+msgid "Boss! Strangers! Must be undead. No more hiding, now we fight!"
+msgstr ""
+
+#. [message]: speaker=Erulo
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:304
+msgid ""
+"Bah!  More bones?  Smash dem!  Push dem back to da pit!  Kill dem all or die "
+"like orc warrior!"
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:308
+msgid "Prince...? Prince Erulo...?"
+msgstr ""
+
+#. [message]: id=Erulo
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:312
+msgid "Who is that...? Master Zooke...?"
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:316
+msgid "Yes, I am glad you are alive."
+msgstr ""
+
+#. [message]: id=Erulo
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:320
+msgid ""
+"Greetings, Master Zooke. Good to see you. Big trouble here. Nagas broke in, "
+"made Lord Vevyan revive. We saw big fight, then hid here. Dere are undead "
+"all around da  cave now."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:324
+msgid ""
+"It was totally my fault. I apologize that I was tricked into reviving him. "
+"We didn't learn the truth until after the damage was done."
+msgstr ""
+
+#. [message]: speaker=Sapient
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:333
+msgid ""
+"Prince is alive! That good news for Lord Erishnak II. We going to smash dem "
+"all, Prince!"
+msgstr ""
+
+#. [message]: speaker=Zooke
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:339
+msgid ""
+"Erulo, we have a weapon, a sceptre, that will help us to defeat them all, "
+"including Vevyan. So we'll have you out of here shortly, okay?"
+msgstr ""
+
+#. [message]: id=Erulo
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:345
+msgid "Good! We help you crush dem!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:350
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:994
+msgid "Defeat Vevyan"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:369
+msgid "I hope this one can communicate with its boss."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:417
+msgid "Uh, somebody is there."
+msgstr ""
+
+#. [message]: id=Colonel
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:421
+msgid "Oooh! Somebody breaks in. Sir, Vevyan!"
+msgstr ""
+
+#. [message]: id=Vevyan
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:433
+msgid ""
+"Hoho... You nagas again? I told you to go away. Remember how I made your "
+"friends into stones? Now I'll do the same to you! Take this!"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:474
+msgid "Thank you, Deliowen!"
+msgstr ""
+
+#. [message]: id=Deliowen
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:478
+msgid "Happy to help. This is why I came."
+msgstr ""
+
+#. [message]: id=Vevyan
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:483
+msgid ""
+"Oooh? So you have that worn-out old sceptre from the Snow Queen?  And you "
+"think that will protect you?  You're going to need more than that, hahaha! "
+"Try this! Dark sprits, arise from the pit!"
+msgstr ""
+
+#. [message]: id=Orocleii
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:608
+msgid "You... freed... us...  Now we... return to... you..."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:612
+msgid "Oh, Hydra!"
+msgstr ""
+
+#. [message]: id=Sapient
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:621
+msgid ""
+"He must have strong sense of duty to nagas. Humpf! But he betrayed Lord "
+"Erishnak! Still... maybe they old friends?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:663
+msgid "Aaagrh... My lord..."
+msgstr ""
+
+#. [message]: speaker=Vevyan
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:667
+msgid "Hm, whenever you are ready, I will let you back here."
+msgstr ""
+
+#. [message]: id=Vevyan
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:703
+msgid ""
+"You there, Orcish Mage! That same old trick isn't going to work a second "
+"time! Gwahaha! But I'm glad you came here and tried. I'm through playing "
+"around. Now to have my revenge on you!"
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:764
+msgid "Noooo, Deliowen!"
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:768
+msgid ""
+"By thunder! Looks like the blinkin' sceptre can protect others, but not the "
+"one holding it!"
+msgstr ""
+
+#. [message]: id=Vevyan
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:772
+msgid ""
+"That is correct, Dwarvish maniac. I learned that only recently. Now, it is "
+"time to put an end to all of you!"
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:776
+msgid "Nooo... It is the end... The end of our time..."
+msgstr ""
+
+#. [message]: id=Kozmo
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:808
+msgid "... It's coming... The star is coming to me..."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:831
+msgid "By the Almighty Hammer!  What be happening!?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:886
+msgid ""
+"The entire cave was flooded with a bright, blinding light... and as the "
+"light deepened in color, it took on the appearance of flames, and the flames "
+"seemed to consume Kózmo!  ...and in an instant, she was completely "
+"transformed.  Many had called her a monster.  Now she was one, indeed!  And "
+"other, smaller fire spirits arrived at the same time."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:892
+msgid "OHH! Kózmo! What has become of you?"
+msgstr ""
+
+#. [message]: id=Kozmo
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:916
+msgid "RooAAARRR!!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:971
+msgid "<i>Fire Guardians</i> are available to recruit."
+msgstr ""
+
+#. [message]: id=Vevyan
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:989
+msgid ""
+"Uhhh! Nothing... the stone curse magic has stopped working? That monster has "
+"a strong aura. This could be trouble. You must be...  the Flame of Justice!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1126
+msgid "Aaagrh... Noooo..."
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1130
+msgid "Go back to the pit! And never come back again!"
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1168
+msgid "Jexxik and Arkarms, are you all right?"
+msgstr ""
+
+#. [message]: id=Jexxik
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1172
+msgid "Uhhh... What is going on...?"
+msgstr ""
+
+#. [message]: id=Arkarms
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1176
+msgid "Uooow... I cannot see anything..."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1180
+msgid "Oh, good. It's going to be alright."
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1184
+msgid "Ooow, Deliowen, are you all right?"
+msgstr ""
+
+#. [message]: id=Deliowen
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1191
+msgid "Father, what I have been doing?"
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1195
+msgid "Ooh! Look at big Kózmo! Something is happening to him."
+msgstr ""
+
+#. [message]: id=Kozmo
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1210
+msgid "I am done... Take care..."
+msgstr ""
+
+#. [message]: id=Divaloss
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1219
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1225
+msgid ""
+"Legend has it that...  when darkness begins to rule, flame comes to the "
+"world to end the reign of darkness. I never knew whether to believe that, "
+"before today."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1231
+msgid "Wait! Wait a second! Can someone tell me where the real Kózmo is?"
+msgstr ""
+
+#. [message]: id=Kozmo
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1235
+msgid ""
+"She is a part of me now. I am sorry, but you cannot see her anymore. I had "
+"to use her in order to appear in this world. You might say she was my child; "
+"and so was Ixyndara. When he encountered an Orcish Wizard, I saw how the "
+"future would unfold: that the undead lord would escape, darkness would come "
+"to the world, and several warring races would have to cooperate to destroy "
+"him. So Ixyndara convinced that wizard to make peace. His future had the "
+"potential to set everything right. The discovery and rescue of the orc "
+"prince should calm relations between several of the races."
+msgstr ""
+
+#. [message]: id=Zooke
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1239
+msgid ""
+"Oh, so you were that flying monster that I talked to so long ago?  I  still "
+"see the wisdom in your words. We do have enough land. There's no good reason "
+"to fight for more territory. And actually, peace would be a pleasant change."
+msgstr ""
+
+#. [message]: id=Erulo
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1249
+msgid "I will tell my father exactly what I saw today."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1255
+msgid ""
+"You did not pick up the Holy Water. Orcish Prince was supposed to say: - "
+"<i>I will tell my father exactly what I saw today.</i>."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1262
+msgid ""
+"Wow, big Kózmo. You can read the future...? \n"
+"I miss her...  and I thank you so much for saving us."
+msgstr ""
+
+#. [message]: id=Kozmo
+#: Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:1267
+msgid "You are welcome.  Fare well..."
+msgstr ""
+
+#. [scenario]: id=18_Epilogue
+#: Return_of_the_Monster/scenarios/18_Epilogue.cfg:4
+msgid "Epilogue"
+msgstr ""
+
+#. [part]
+#: Return_of_the_Monster/scenarios/18_Epilogue.cfg:9
+msgid ""
+"The undead lord Vevyan was completely destroyed by the appearance of the "
+"Flame of Justice.  Kózmo and Ixyndara had been sent by him in order to set "
+"things in motion, to destroy Vevyan, the darkness, and restore light to the "
+"world.  In fact, the Flame of Justice himself was what Kózmo had seen "
+"previously as a distant, shining star."
+msgstr ""
+
+#. [part]
+#: Return_of_the_Monster/scenarios/18_Epilogue.cfg:13
+msgid ""
+"After the cave was cleared and made safe, everyone returned home.  Amailoss, "
+"Montas, Arkarms, Jexxik and their followers returned to Riverside.  Master "
+"Zooke, Sapient, and Deliowen went back to the north with the orcs and "
+"goblins.  Each one was able to feel a sense of peace because of the Flame of "
+"Justice."
+msgstr ""
+
+#. [message]: id=Gaakee
+#: Return_of_the_Monster/scenarios/18_Epilogue.cfg:140
+msgid "Keee!"
+msgstr ""
+
+#. [message]: id=Jexxik
+#: Return_of_the_Monster/scenarios/18_Epilogue.cfg:144
+msgid ""
+"Oh, look!  Arkarmssss is approaching.  Wonder what he needsss thissss time."
+msgstr ""
+
+#. [message]: id=Jexxik
+#: Return_of_the_Monster/scenarios/18_Epilogue.cfg:159
+msgid "Hello, Arkarmsss!  Looking for more land again?"
+msgstr ""
+
+#. [message]: id=Arkarms
+#: Return_of_the_Monster/scenarios/18_Epilogue.cfg:163
+msgid ""
+"Oh, no, no.  No complain about dat anymore.  Very happy, right now.  Life "
+"very good."
+msgstr ""
+
+#. [message]: id=Arkarms
+#: Return_of_the_Monster/scenarios/18_Epilogue.cfg:171
+msgid ""
+"Want to ask who Snow Lady was?  Saw her in cave.  Eyes not working go good "
+"then.  But she very pretty."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/18_Epilogue.cfg:175
+msgid ""
+"Oho! Sounds like our big friend is in love? \n"
+"She be daughter o' the Snow Queen from North o' the Heart Mountains.  I "
+"dinna think she's your type, but we know a guide who can take you there.  "
+"Bev!  Where are you?  There be someone here who needs you!"
+msgstr ""
+
+#. [message]: id=Bev
+#: Return_of_the_Monster/scenarios/18_Epilogue.cfg:193
+msgid "Hello.  I am Bev.  The north Heart Mountains are very far from here..."
+msgstr ""
+
+#. [message]: id=Arkarms
+#: Return_of_the_Monster/scenarios/18_Epilogue.cfg:197
+msgid "Heeh! A mud-crawler!  Don't want to be stone again.  Never mind!"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/scenarios/18_Epilogue.cfg:205
+msgid ""
+"Ho! Ho! It seems he hasn't gotten over his trauma! It'll be years before "
+"he'll trust a mud-crawler ever again. It's probably just as well, those "
+"mountains are probably too cold for him."
+msgstr ""
+
+#. [message]: id=Jexxik
+#: Return_of_the_Monster/scenarios/18_Epilogue.cfg:209
+msgid ""
+"That reminds me, how is the orcish wizard doing these days?  He said he "
+"wasn't going to live far from his daughter anymore."
+msgstr ""
+
+#. [message]: id=Montas
+#: Return_of_the_Monster/scenarios/18_Epilogue.cfg:213
+msgid ""
+"GaaKee returned from there not long ago. Master Zooke moved to the mountain, "
+"he did. Lives with Deliowen, and Sil-Celadë, and his horses. I s'pose the "
+"nearness o' family keeps him warm these days."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/18_Epilogue.cfg:217
+msgid "... Ah... Ah... AHCHOOoo...! <small><i>... Cold...!</i></small>"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/scenarios/18_Epilogue.cfg:237
+msgid "Neeeeiiigh...? <small><i>Are you okay, my master?</i></small>"
+msgstr ""
+
+#. [unit_type]: id=Air Monster, race=monster
+#: Return_of_the_Monster/units/Air_Monster.cfg:4
+msgid "Air Monster"
+msgstr ""
+
+#. [unit_type]: id=Air Monster, race=monster
+#: Return_of_the_Monster/units/Air_Monster.cfg:23
+msgid "Air Monster."
+msgstr ""
+
+#. [regenerate]: id=recovery
+#: Return_of_the_Monster/units/Air_Monster.cfg:42
+#: Return_of_the_Monster/units/carapaces/Diviner.cfg:29
+#: Return_of_the_Monster/units/carapaces/Elder.cfg:26
+#: Return_of_the_Monster/units/carapaces/Lord.cfg:29
+msgid "recovery"
+msgstr ""
+
+#. [regenerate]: id=recovery
+#: Return_of_the_Monster/units/Air_Monster.cfg:43
+#: Return_of_the_Monster/units/carapaces/Diviner.cfg:30
+#: Return_of_the_Monster/units/carapaces/Elder.cfg:27
+#: Return_of_the_Monster/units/carapaces/Lord.cfg:30
+msgid "female^recovery"
+msgstr ""
+
+#. [regenerate]: id=recovery
+#: Return_of_the_Monster/units/Air_Monster.cfg:44
+#: Return_of_the_Monster/units/carapaces/Diviner.cfg:31
+#: Return_of_the_Monster/units/carapaces/Elder.cfg:28
+#: Return_of_the_Monster/units/carapaces/Lord.cfg:31
+msgid ""
+"Recovery:\n"
+"            The unit will heal itself 4 HP per turn. If it is poisoned, it "
+"will remove the poison instead of healing."
+msgstr ""
+
+#. [advancement]: id=rotm_amla_fireball
+#: Return_of_the_Monster/units/Air_Monster.cfg:56
+msgid "fireball (+1 damage to fireball, no heal full)"
+msgstr ""
+
+#. [advancement]: id=rotm_amla_commander_3
+#. [advancement]: id=rotm_amla_defense
+#: Return_of_the_Monster/units/Air_Monster.cfg:68
+#: Return_of_the_Monster/units/nagas/lord.cfg:75
+msgid "defense (+10 up for resistance, no heal full)"
+msgstr ""
+
+#. [attack]: type=blade
+#: Return_of_the_Monster/units/Air_Monster.cfg:169
+#: Return_of_the_Monster/units/Fairy_Dragon.cfg:99
+#: Return_of_the_Monster/units/Flying_Monster.cfg:163
+#: Return_of_the_Monster/units/Young_Monster.cfg:108
+msgid "fangs"
+msgstr ""
+
+#. [attack]: type=fire
+#: Return_of_the_Monster/units/Air_Monster.cfg:178
+msgid "fire ball"
+msgstr ""
+
+#. [unit_type]: id=Fairy Dragon, race=monster
+#: Return_of_the_Monster/units/Fairy_Dragon.cfg:4
+msgid "Fairy Dragon"
+msgstr ""
+
+#. [unit_type]: id=Fairy Dragon, race=monster
+#: Return_of_the_Monster/units/Fairy_Dragon.cfg:19
+msgid "Fairy Dragon, Ixyndara."
+msgstr ""
+
+#. [attack]: type=fire
+#: Return_of_the_Monster/units/Fairy_Dragon.cfg:108
+#: Return_of_the_Monster/units/Flying_Monster.cfg:172
+#: Return_of_the_Monster/units/Young_Monster.cfg:117
+msgid "fire breath"
+msgstr ""
+
+#. [unit_type]: id=Flame of Justice, race=monster
+#: Return_of_the_Monster/units/Flame_of_Justice.cfg:4
+msgid "Flame of Justice"
+msgstr ""
+
+#. [unit_type]: id=Flame of Justice, race=monster
+#: Return_of_the_Monster/units/Flame_of_Justice.cfg:23
+msgid ""
+"Flame of Justice is a fairy of Fire. When he shows himself in our world, the "
+"body is shown as like a Dragon."
+msgstr ""
+
+#. [attack]: type=fire
+#: Return_of_the_Monster/units/Flame_of_Justice.cfg:98
+msgid "fire claws"
+msgstr ""
+
+#. [attack]: type=fire
+#: Return_of_the_Monster/units/Flame_of_Justice.cfg:126
+msgid "fireball"
+msgstr ""
+
+#. [unit_type]: id=Flying Monster, race=monster
+#: Return_of_the_Monster/units/Flying_Monster.cfg:4
+msgid "Flying Monster"
+msgstr ""
+
+#. [unit_type]: id=Flying Monster, race=monster
+#: Return_of_the_Monster/units/Flying_Monster.cfg:22
+msgid "Flying Monster."
+msgstr ""
+
+#. [unit_type]: id=Goblin Archer, race=goblin
+#: Return_of_the_Monster/units/Goblin_Archer.cfg:4
+msgid "Goblin Archer"
+msgstr ""
+
+#. [unit_type]: id=Goblin Archer, race=goblin
+#: Return_of_the_Monster/units/Goblin_Archer.cfg:22
+msgid ""
+"The comparatively small and weak goblin is ill-suited to use as a soldier, "
+"unless you have a need of many cheap, expendable troops. The southern orcs "
+"make better use of their goblin brethren by equipping them with bows instead "
+"of spears, and using them in the same role as the slightly larger and "
+"stronger orcish archer. This is a duty the sly and sneaky goblins can fulfil "
+"quite well, and they take great delight in sending volleys of fire-arrows at "
+"foes they’d be very reluctant to face in a fairer contest."
+msgstr ""
+
+#. [attack]: type=blade
+#: Return_of_the_Monster/units/Goblin_Archer.cfg:27
+#: Return_of_the_Monster/units/Orcish_Depthstalker.cfg:78
+msgid "dagger"
+msgstr ""
+
+#. [attack]: type=fire
+#: Return_of_the_Monster/units/Goblin_Archer.cfg:36
+msgid "bow"
+msgstr ""
+
+#. [unit_type]: id=Gryphon Wagon, race=gryphon
+#: Return_of_the_Monster/units/Gryphon_Wagon.cfg:4
+msgid "Gryphon Wagon"
+msgstr ""
+
+#. [unit_type]: id=Gryphon Wagon, race=gryphon
+#: Return_of_the_Monster/units/Gryphon_Wagon.cfg:20
+msgid "dummy_unit^Gryphon Wagon."
+msgstr ""
+
+#. [unit_type]: id=Ice Fairy, race=fairy
+#: Return_of_the_Monster/units/Ice_Fairy.cfg:4
+msgid "Ice Fairy"
+msgstr ""
+
+#. [unit_type]: id=Ice Fairy, race=fairy
+#: Return_of_the_Monster/units/Ice_Fairy.cfg:19
+msgid ""
+"Ice Fairies are the rarest and deadliest of the elven magicians living in "
+"the high mountains of Wesnoth. Their laughter, it is said, can be heard in "
+"the clatter of falling stones, and their eerie keening song is woven into "
+"the very winds of the peaks. One thing is certainly true; do harm to any "
+"thing in the ice fairy’s demesne and her fury will be as implacable and "
+"deadly as an avalanche."
+msgstr ""
+
+#. [attack]: type=impact
+#: Return_of_the_Monster/units/Ice_Fairy.cfg:95
+msgid "faerie touch"
+msgstr ""
+
+#. [attack]: type=impact
+#: Return_of_the_Monster/units/Ice_Fairy.cfg:108
+#: Return_of_the_Monster/units/Snow_Sorceress.cfg:101
+msgid "freeze"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Return_of_the_Monster/units/Ice_Fairy.cfg:120
+#: Return_of_the_Monster/units/Snow_Sorceress.cfg:113
+msgid "ice flash"
+msgstr ""
+
+#. [unit_type]: id=Missile, race=mechanical
+#: Return_of_the_Monster/units/Missile.cfg:4
+msgid "Missile"
+msgstr ""
+
+#. [unit_type]: id=Missile, race=mechanical
+#. [unit_type]: id=One Egg, race=mechanical
+#. [unit_type]: id=Tomahawk, race=mechanical
+#: Return_of_the_Monster/units/Missile.cfg:17
+#: Return_of_the_Monster/units/One_Egg.cfg:17
+#: Return_of_the_Monster/units/Tomahawk.cfg:17
+msgid "dummy"
+msgstr ""
+
+#. [unit_type]: id=One Egg, race=mechanical
+#: Return_of_the_Monster/units/One_Egg.cfg:4
+msgid "One Egg"
+msgstr ""
+
+#. [unit_type]: id=Orcish Depthstalker, race=orc
+#: Return_of_the_Monster/units/Orcish_Depthstalker.cfg:4
+msgid "Orcish Depthstalker"
+msgstr ""
+
+#. [unit_type]: id=Orcish Depthstalker, race=orc
+#: Return_of_the_Monster/units/Orcish_Depthstalker.cfg:22
+msgid ""
+"Orcish Depthstalker is a high skilled Orcish Assassin who is also equipped "
+"some magical power. He usually approaches enemies by using his teleport, "
+"then poisons or destroys them without taking own damages."
+msgstr ""
+
+#. [advancement]: id=depthstalker_melee_magical
+#: Return_of_the_Monster/units/Orcish_Depthstalker.cfg:46
+msgid "offensive combat skill (gaining magical attack on dagger, no heal full)"
+msgstr ""
+
+#. [advancement]: id=depthstalker_resistance
+#: Return_of_the_Monster/units/Orcish_Depthstalker.cfg:61
+msgid ""
+"defensive combat skill (all resistances improve by 20 points, no heal full)"
+msgstr ""
+
+#. [attack]: type=blade
+#: Return_of_the_Monster/units/Orcish_Depthstalker.cfg:90
+msgid "throwing knives"
+msgstr ""
+
+#. [unit_type]: id=Orcish Galleon, race=mechanical
+#: Return_of_the_Monster/units/Orcish_Galleon.cfg:4
+msgid "Orcish Galleon"
+msgstr ""
+
+#. [unit_type]: id=Orcish Galleon, race=mechanical
+#: Return_of_the_Monster/units/Orcish_Galleon.cfg:18
+msgid ""
+"Orcs use galleons, too. Game-wise, these are almost the same as Pirate "
+"Galleons."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Return_of_the_Monster/units/Orcish_Galleon.cfg:45
+msgid "ballista"
+msgstr ""
+
+#. [unit_type]: id=Orcish Sorcerer, race=orc
+#: Return_of_the_Monster/units/Orcish_Sorcerer.cfg:4
+msgid "Orcish Sorcerer"
+msgstr ""
+
+#. [unit_type]: id=Orcish Sorcerer, race=orc
+#: Return_of_the_Monster/units/Orcish_Sorcerer.cfg:18
+msgid "Orcish Sorcerer, Master Zooke, is the guardians of orcish magic."
+msgstr ""
+
+#. [attack]: type=impact
+#: Return_of_the_Monster/units/Orcish_Sorcerer.cfg:23
+#: Return_of_the_Monster/units/Orcish_Wizard.cfg:24
+#: Return_of_the_Monster/units/Snow_Sorceress.cfg:91
+#: Return_of_the_Monster/units/carapaces/Diviner.cfg:162
+#: Return_of_the_Monster/units/carapaces/Elder.cfg:135
+#: Return_of_the_Monster/units/nagas/Nagini_Diviner.cfg:71
+#: Return_of_the_Monster/units/nagas/Nagini_Dowser.cfg:30
+#: Return_of_the_Monster/units/nagas/Nagini_Maiden.cfg:26
+#: Return_of_the_Monster/units/nagas/Nagini_Queen.cfg:31
+#: Return_of_the_Monster/units/nagas/Nagini_Sorceress.cfg:31
+#: Return_of_the_Monster/units/nagas/White_Nagini.cfg:69
+msgid "staff"
+msgstr ""
+
+#. [attack]: type=cold
+#: Return_of_the_Monster/units/Orcish_Sorcerer.cfg:32
+#: Return_of_the_Monster/units/Orcish_Wizard.cfg:33
+msgid "curse"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Return_of_the_Monster/units/Orcish_Sorcerer.cfg:43
+#: Return_of_the_Monster/units/Orcish_Wizard.cfg:44
+msgid "shadow wave"
+msgstr ""
+
+#. [unit_type]: id=Orcish Wizard, race=orc
+#: Return_of_the_Monster/units/Orcish_Wizard.cfg:19
+msgid "Orcish Wizard, Master Zooke, is the guardians of orcish magic."
+msgstr ""
+
+#. [unit_type]: id=Saurian Champion, race=lizard
+#: Return_of_the_Monster/units/Saurian_Champion.cfg:4
+msgid "Saurian Champion"
+msgstr ""
+
+#. [unit_type]: id=Saurian Champion, race=lizard
+#: Return_of_the_Monster/units/Saurian_Champion.cfg:21
+msgid ""
+"If a saurian warrior survives enough battles he is declared a champion among "
+"lizards. From a distance, he throws poisoned spears to weaken a foe before "
+"he approaches, and in melee his skill with the huge spear he wields has "
+"become so great that few enemies ever escape unscathed."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Return_of_the_Monster/units/Saurian_Champion.cfg:62
+msgid "longspear"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Return_of_the_Monster/units/Saurian_Champion.cfg:71
+msgid "throwing spear"
+msgstr ""
+
+#. [unit_type]: id=Snow Sorceress, race=fairy
+#: Return_of_the_Monster/units/Snow_Sorceress.cfg:4
+msgid "Snow Sorceress"
+msgstr ""
+
+#. [unit_type]: id=Snow Sorceress, race=fairy
+#: Return_of_the_Monster/units/Snow_Sorceress.cfg:18
+msgid ""
+"Snow Sorceresses have lived in the highlands of Wesnoth for many centuries. "
+"Unlike most elves, who prefer the rich greenery of the elven forests, they "
+"love the stark beauty of the high mountains. Their magical affinity with "
+"their surroundings is beginning to grant them greater powers; they are "
+"rarely troubled by even the most intense cold, and they have learned how to "
+"channel the elemental power of the bleak highland weather into an arcane "
+"blast of arctic purity."
+msgstr ""
+
+#. [unit_type]: id=Tomahawk, race=mechanical
+#: Return_of_the_Monster/units/Tomahawk.cfg:4
+msgid "Tomahawk"
+msgstr ""
+
+#. [unit_type]: id=Young Monster, race=monster
+#: Return_of_the_Monster/units/Young_Monster.cfg:4
+msgid "Young Monster"
+msgstr ""
+
+#. [unit_type]: id=Young Monster, race=monster
+#: Return_of_the_Monster/units/Young_Monster.cfg:22
+msgid "Young Monster."
+msgstr ""
+
+#. [unit_type]: id=Divine Carapace, race=carapace
+#: Return_of_the_Monster/units/carapaces/Diviner.cfg:4
+msgid "Divine Carapace"
+msgstr ""
+
+#. [unit_type]: id=Divine Carapace, race=carapace
+#: Return_of_the_Monster/units/carapaces/Diviner.cfg:20
+msgid ""
+"Divine Carapace, Divaloss is more than 200 years old. He is one of the "
+"fewest carapaces who has magical power. He can also feel the signs of some "
+"creatures from the distance, but it only works for limited creatures."
+msgstr ""
+
+#. [advancement]: id=rotm_amla_divine_2
+#: Return_of_the_Monster/units/carapaces/Diviner.cfg:41
+msgid "staff (+1 damage to staff, no heal full)"
+msgstr ""
+
+#. [advancement]: id=rotm_amla_divine_1
+#: Return_of_the_Monster/units/carapaces/Diviner.cfg:53
+msgid "crystal rod (+1 damage to crystal rod, no heal full)"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Return_of_the_Monster/units/carapaces/Diviner.cfg:171
+msgid "crystal rod"
+msgstr ""
+
+#. [unit_type]: id=Elder Carapace, race=carapace
+#: Return_of_the_Monster/units/carapaces/Elder.cfg:4
+msgid "Elder Carapace"
+msgstr ""
+
+#. [unit_type]: id=Elder Carapace, race=carapace
+#: Return_of_the_Monster/units/carapaces/Elder.cfg:19
+msgid ""
+"Elder Carapace, Divaloss is more than 200 years old. He is one of the fewest "
+"carapaces who has magical power. He can also feel the signs of some "
+"creatures from the distance, but it only works for limited creatures."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Return_of_the_Monster/units/carapaces/Elder.cfg:144
+msgid "staff magic"
+msgstr ""
+
+#. [unit_type]: id=Foraging Carapace, race=carapace
+#: Return_of_the_Monster/units/carapaces/Forager.cfg:4
+msgid "Foraging Carapace"
+msgstr ""
+
+#. [unit_type]: id=Foraging Carapace, race=carapace
+#: Return_of_the_Monster/units/carapaces/Forager.cfg:18
+msgid ""
+"Foraging Carapace is a crab-like monster whose role in the race is for "
+"scouting."
+msgstr ""
+
+#. [attack]: type=impact
+#: Return_of_the_Monster/units/carapaces/Forager.cfg:26
+#: Return_of_the_Monster/units/carapaces/Monster.cfg:35
+msgid "pincers"
+msgstr ""
+
+#. [attack]: type=impact
+#: Return_of_the_Monster/units/carapaces/Forager.cfg:35
+#: Return_of_the_Monster/units/carapaces/Monster.cfg:44
+msgid "babble"
+msgstr ""
+
+#. [unit_type]: id=Heroic Carapace, race=carapace
+#: Return_of_the_Monster/units/carapaces/Hero.cfg:4
+msgid "Heroic Carapace"
+msgstr ""
+
+#. [unit_type]: id=Heroic Carapace, race=carapace
+#: Return_of_the_Monster/units/carapaces/Hero.cfg:19
+msgid "Heroic Carapace is the warrior in the race."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Return_of_the_Monster/units/carapaces/Hero.cfg:27
+#: Return_of_the_Monster/units/carapaces/Javelin.cfg:25
+#: Return_of_the_Monster/units/carapaces/Javelin.cfg:34
+msgid "trident"
+msgstr ""
+
+#. [attack]: type=impact
+#: Return_of_the_Monster/units/carapaces/Hero.cfg:36
+#: Return_of_the_Monster/units/carapaces/Lord.cfg:63
+msgid "morning star"
+msgstr ""
+
+#. [attack]: type=impact
+#: Return_of_the_Monster/units/carapaces/Hero.cfg:45
+#: Return_of_the_Monster/units/carapaces/Javelin.cfg:46
+#: Return_of_the_Monster/units/carapaces/Lord.cfg:72
+msgid "water breath"
+msgstr ""
+
+#. [unit_type]: id=Javelin Carapace, race=carapace
+#: Return_of_the_Monster/units/carapaces/Javelin.cfg:4
+msgid "Javelin Carapace"
+msgstr ""
+
+#. [unit_type]: id=Javelin Carapace, race=carapace
+#: Return_of_the_Monster/units/carapaces/Javelin.cfg:20
+msgid ""
+"Javelin Carapace throws the trident for his hunting jobs. Its damage is "
+"enough to give a mortal wound to his target."
+msgstr ""
+
+#. [unit_type]: id=Lord Carapace, race=carapace
+#: Return_of_the_Monster/units/carapaces/Lord.cfg:4
+msgid "Lord Carapace"
+msgstr ""
+
+#. [unit_type]: id=Lord Carapace, race=carapace
+#: Return_of_the_Monster/units/carapaces/Lord.cfg:19
+msgid "Lord Carapace, Tulosis, is the leader of the race."
+msgstr ""
+
+#. [advancement]: id=rotm_amla_commander_1
+#: Return_of_the_Monster/units/carapaces/Lord.cfg:41
+msgid "fire breath (+2 damage to fire breath, no heal full)"
+msgstr ""
+
+#. [advancement]: id=rotm_amla_commander_2
+#: Return_of_the_Monster/units/carapaces/Lord.cfg:53
+msgid "morning star (+1 damage to morning star, no heal full)"
+msgstr ""
+
+#. [unit_type]: id=Monstrous Carapace, race=carapace
+#: Return_of_the_Monster/units/carapaces/Monster.cfg:4
+msgid "Monstrous Carapace"
+msgstr ""
+
+#. [unit_type]: id=Monstrous Carapace, race=carapace
+#: Return_of_the_Monster/units/carapaces/Monster.cfg:20
+msgid "Monstrous Carapace."
+msgstr ""
+
+#. [unit_type]: id=Nagini Diviner, race=naga
+#: Return_of_the_Monster/units/nagas/Nagini_Diviner.cfg:4
+msgid "Nagini Diviner"
+msgstr ""
+
+#. [unit_type]: id=Nagini Diviner, race=naga
+#: Return_of_the_Monster/units/nagas/Nagini_Diviner.cfg:23
+msgid ""
+"Once a while, Naga Queen delivers a piebald egg, instead of plain white one. "
+"The Nagini Healer is born from it with equipping a healing magic. In the "
+"most cases, small sized females are born from the piebald eggs."
+msgstr ""
+
+#. [attack]: type=impact
+#: Return_of_the_Monster/units/nagas/Nagini_Diviner.cfg:80
+#: Return_of_the_Monster/units/nagas/Nagini_Dowser.cfg:39
+#: Return_of_the_Monster/units/nagas/Nagini_Maiden.cfg:35
+#: Return_of_the_Monster/units/nagas/Nagini_Queen.cfg:40
+#: Return_of_the_Monster/units/nagas/Nagini_Sorceress.cfg:40
+#: Return_of_the_Monster/units/nagas/White_Nagini.cfg:78
+msgid "water ball"
+msgstr ""
+
+#. [unit_type]: id=Nagini Dowser, race=naga
+#: Return_of_the_Monster/units/nagas/Nagini_Dowser.cfg:4
+msgid "Nagini Dowser"
+msgstr ""
+
+#. [unit_type]: id=Nagini Dowser, race=naga
+#: Return_of_the_Monster/units/nagas/Nagini_Dowser.cfg:21
+msgid "Nagini Dowser."
+msgstr ""
+
+#. [unit_type]: id=Nagini Maiden, race=naga
+#: Return_of_the_Monster/units/nagas/Nagini_Maiden.cfg:4
+msgid "Nagini Maiden"
+msgstr ""
+
+#. [unit_type]: id=Nagini Maiden, race=naga
+#: Return_of_the_Monster/units/nagas/Nagini_Maiden.cfg:21
+msgid "Nagini Maiden is a chosen nagini who has magical power in her group."
+msgstr ""
+
+#. [unit_type]: id=Nagini Queen, race=naga
+#: Return_of_the_Monster/units/nagas/Nagini_Queen.cfg:4
+msgid "Nagini Queen"
+msgstr ""
+
+#. [unit_type]: id=Nagini Queen, race=naga
+#: Return_of_the_Monster/units/nagas/Nagini_Queen.cfg:22
+msgid "Nagini Queen."
+msgstr ""
+
+#. [unit_type]: id=Nagini Sorceress, race=naga
+#: Return_of_the_Monster/units/nagas/Nagini_Sorceress.cfg:4
+msgid "Nagini Sorceress"
+msgstr ""
+
+#. [unit_type]: id=Nagini Sorceress, race=naga
+#: Return_of_the_Monster/units/nagas/Nagini_Sorceress.cfg:22
+msgid "Nagini Sorceress."
+msgstr ""
+
+#. [unit_type]: id=Naga Ninja, race=naga
+#: Return_of_the_Monster/units/nagas/Ninja.cfg:4
+msgid "Naga Ninja"
+msgstr ""
+
+#. [unit_type]: id=Naga Ninja, race=naga
+#: Return_of_the_Monster/units/nagas/Ninja.cfg:24
+msgid ""
+"Well trained nagas called Naga Ninjas. Their steel nails, called tekkou "
+"kagi, not only smash enemies, but also improve their movements in forest and "
+"mountains."
+msgstr ""
+
+#. [hides]: id=rotm_steal
+#: Return_of_the_Monster/units/nagas/Ninja.cfg:52
+#: Return_of_the_Monster/units/nagas/Ninja.cfg:58
+msgid "steal"
+msgstr ""
+
+#. [hides]: id=rotm_steal
+#: Return_of_the_Monster/units/nagas/Ninja.cfg:53
+#: Return_of_the_Monster/units/nagas/Ninja.cfg:59
+msgid "female^steal"
+msgstr ""
+
+#. [hides]: id=rotm_steal
+#: Return_of_the_Monster/units/nagas/Ninja.cfg:54
+#: Return_of_the_Monster/units/nagas/Ninja.cfg:60
+msgid ""
+"Steal:\n"
+"This unit can hide in deep water and swamps, and remain undetected by its "
+"enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in deep water and swamps, "
+"except if they have units next to it. Any enemy unit that first discovers "
+"this unit immediately loses all its remaining movement."
+msgstr ""
+
+#. [attack]: type=blade
+#: Return_of_the_Monster/units/nagas/Ninja.cfg:75
+msgid "tekkou kagi"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Return_of_the_Monster/units/nagas/Ninja.cfg:88
+#: Return_of_the_Monster/units/nagas/Stalker.cfg:59
+msgid "blowgun"
+msgstr ""
+
+#. [unit_type]: id=Naga Noble, race=naga
+#: Return_of_the_Monster/units/nagas/Noble.cfg:4
+msgid "Naga Noble"
+msgstr ""
+
+#. [unit_type]: id=Naga Noble, race=naga
+#: Return_of_the_Monster/units/nagas/Noble.cfg:21
+msgid ""
+"Naga Noble, Amailoss, was born one of Naga Queen's eggs, and has been "
+"trained by the carapace-gurds."
+msgstr ""
+
+#. [attack]: type=blade
+#: Return_of_the_Monster/units/nagas/Noble.cfg:38
+#: Return_of_the_Monster/units/nagas/Royal.cfg:51
+#: Return_of_the_Monster/units/nagas/Stalker.cfg:49
+#: Return_of_the_Monster/units/nagas/lord.cfg:92
+msgid "sword"
+msgstr ""
+
+#. [unit_type]: id=Naga Royal, race=naga
+#: Return_of_the_Monster/units/nagas/Royal.cfg:4
+msgid "Naga Royal"
+msgstr ""
+
+#. [unit_type]: id=Naga Royal, race=naga
+#: Return_of_the_Monster/units/nagas/Royal.cfg:20
+msgid "Naga Royal, Amailoss."
+msgstr ""
+
+#. [unit_type]: id=Naga Shadow, race=illusion
+#: Return_of_the_Monster/units/nagas/Shadow.cfg:4
+msgid "Naga Shadow"
+msgstr ""
+
+#. [unit_type]: id=Naga Shadow, race=illusion
+#: Return_of_the_Monster/units/nagas/Shadow.cfg:17
+msgid ""
+"Naga Ninjas can leave an other self when they move. That is what Naga "
+"Shadows are. Because they are just illusions, no weapons are equipped. But "
+"they make enemies confuse."
+msgstr ""
+
+#. [unit_type]: id=Naga Stalker, race=naga
+#: Return_of_the_Monster/units/nagas/Stalker.cfg:4
+msgid "Naga Stalker"
+msgstr ""
+
+#. [female]
+#. [unit_type]: id=Naga Stalker, race=naga
+#: Return_of_the_Monster/units/nagas/Stalker.cfg:24
+#: Return_of_the_Monster/units/nagas/Stalker.cfg:155
+msgid ""
+"The ambushers of the naga aspire to the day not only sword skills, also one "
+"for blowguns. By using them, the trained ambushes are able to stay in the "
+"deep water long time. When enemies show in the front of them, those blowguns "
+"turn to weapons that carry poisoned needles."
+msgstr ""
+
+#. [female]
+#: Return_of_the_Monster/units/nagas/Stalker.cfg:153
+msgid "Nagini Stalker"
+msgstr ""
+
+#. [unit_type]: id=White Nagini, race=naga
+#: Return_of_the_Monster/units/nagas/White_Nagini.cfg:4
+msgid "White Nagini"
+msgstr ""
+
+#. [unit_type]: id=White Nagini, race=naga
+#: Return_of_the_Monster/units/nagas/White_Nagini.cfg:21
+msgid ""
+"Once a while, Naga Queen delivers a small piebald egg. The White Nagini is "
+"born from it with equipping a healing magic. In the most cases, small sized "
+"females are born from the piebald eggs."
+msgstr ""
+
+#. [unit_type]: id=Naga Lord, race=naga
+#: Return_of_the_Monster/units/nagas/lord.cfg:4
+msgid "Naga Lord"
+msgstr ""
+
+#. [unit_type]: id=Naga Lord, race=naga
+#: Return_of_the_Monster/units/nagas/lord.cfg:21
+msgid "Naga Lord, Amailoss."
+msgstr ""
+
+#. [advancement]: id=rotm_amla_commander_2
+#: Return_of_the_Monster/units/nagas/lord.cfg:63
+msgid "storm orb (+1 damage to storm orb, no heal full)"
+msgstr ""
+
+#: Return_of_the_Monster/utils/rotm-ability-utils.cfg:4
+msgid " This unit is able to hide not only in deep water, but also in swamps."
+msgstr ""
+
+#: Return_of_the_Monster/utils/rotm-ability-utils.cfg:7
+msgid " This unit is able to spawn an illusion when he/she moves."
+msgstr ""
+
+#. [dummy]: id=rotm_shadow
+#: Return_of_the_Monster/utils/rotm-ability-utils.cfg:12
+msgid "shadow"
+msgstr ""
+
+#. [dummy]: id=rotm_shadow
+#: Return_of_the_Monster/utils/rotm-ability-utils.cfg:14
+msgid ""
+"Shadow:\n"
+"A unit who has this ability can leave his/her shadow at the hex where he/she "
+"was when he/she moves."
+msgstr ""
+
+#: Return_of_the_Monster/utils/rotm-ability-utils.cfg:130
+#: Return_of_the_Monster/utils/rotm-ability-utils.cfg:131
+msgid "hide"
+msgstr ""
+
+#. [hides]: id=rotm_hiding
+#: Return_of_the_Monster/utils/rotm-ability-utils.cfg:132
+#: Return_of_the_Monster/utils/rotm-utils.cfg:428
+msgid ""
+"Hide: \n"
+"This unit can hide in swamps, and remain undetected by its enemies.\n"
+"Enemy units cannot see this unit while it is in swamps, except if they have "
+"units next to it. Any enemy unit that first discovers this unit immediately "
+"loses all its remaining movement."
+msgstr ""
+
+#. [part]
+#: Return_of_the_Monster/utils/rotm-story.cfg:6
+msgid ""
+"It was spring in the North, so the stream was fast, and the water was clean "
+"and cold. It emptied into the Bark River, which carried much water from the "
+"mountains to the ocean. For part of its journey, the river flowed to the "
+"east, through the northern lands of an Elvish domain known as the Silent "
+"Forest. In this third century of Wesnoth, nagas sometimes scouted the Elvish "
+"lands, and were familiar with them. Mountains lay north of the naga "
+"territory, and these mountains were home to loosely-allied bands of orcs. "
+"The orcs already had enough land, but being orcs, they often invaded areas "
+"where nagas and other creatures lived."
+msgstr ""
+
+#. [part]
+#: Return_of_the_Monster/utils/rotm-story.cfg:10
+msgid ""
+"Sometimes, the orc invasions were repulsed, but often the orcs were too "
+"numerous and too strong, and they would capture the area temporarily. On "
+"those occasions, the nagas had to temporarily flee for their lives. There "
+"were brave fighters, and many stirring stories, on both sides of the "
+"conflict. After years of this back and forth, a large dragon-like reptile "
+"appeared in the region. He was wise and proved to be an inspired leader. He "
+"convinced local lizards to be allies with the nagas. He surprised everyone "
+"by calling forth a race of turtle-like and crab-like creatures, called "
+"carapace-guards, that lived along the sea shore. Even more amazing, he "
+"brought in a race of fire fairies that lived near the volcanoes in the "
+"mountains. As a result, there arose a legend: - <i>when darkness takes hold "
+"of the world, flame arises to end the reign of darkness</i>. Some of the "
+"races believed that this spoke of an actual event far in the past, not just "
+"a myth. Whether true or not, the appearance of the dragon-like reptile, "
+"having fire breath, gave them reason to unite against the marauding orcs."
+msgstr ""
+
+#. [part]
+#: Return_of_the_Monster/utils/rotm-story.cfg:14
+msgid ""
+"When the orcs next came, they were strong and well led, but the allied races "
+"eventually won. The orcs had not expected fire-breathing fairies and "
+"fighters that were covered by hard shells. Nagas and saurians alike "
+"celebrated the hard-won victory and were happy to follow their new leader.\n"
+"Orcs, however, were not so happy. They immediately began discussing a plan "
+"to strike again against the allied races. As soon as scouts saw the main "
+"force of carapace-guards depart to go home to the sea, the orcish lord sent "
+"messengers to the city of Farzi to summon the greatest orcish wizard of all, "
+"known as Zooke."
+msgstr ""
+
+#. [part]
+#: Return_of_the_Monster/utils/rotm-story.cfg:19
+msgid ""
+"In naga society, spawning season was coming for their Queen, Hassalia. "
+"Though brave fighters, nagas were not physically tough, and they had many "
+"enemies. Hence, their society spread in small groups or family bands, so "
+"that the destruction of one or two groups would not doom their entire race. "
+"Most young nobles would leave home to find, or establish, a group of their "
+"own to lead. One particular young noble, Amailoss, born from the Queen's "
+"last egg some years ago, was preparing to leave the home nest. It was "
+"unusual that his departure would happen during spawning season, but this was "
+"a time of truce with the orcs..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_of_the_Monster/utils/rotm-unit-utils.cfg:19
+msgid ""
+"By the experience of combats, the storm orb is now able to be handled by "
+"Amailoss. Lightning attack is available to use on him."
+msgstr ""
+
+#. [message]: speaker=Jexxik
+#: Return_of_the_Monster/utils/rotm-unit-utils.cfg:199
+msgid "I hope it is not the transform that you are talking about."
+msgstr ""
+
+#. [message]: id=Vev
+#: Return_of_the_Monster/utils/rotm-unit-utils.cfg:203
+msgid "Oh, no, no. This is just a regular mud-crawler thing."
+msgstr ""
+
+#: Return_of_the_Monster/utils/rotm-utils.cfg:9
+msgid "Amailoss's Force"
+msgstr ""
+
+#: Return_of_the_Monster/utils/rotm-utils.cfg:12
+msgid "Amailoss"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/utils/rotm-utils.cfg:53
+#: Return_of_the_Monster/utils/rotm-utils.cfg:76
+msgid "Death of Vev"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/utils/rotm-utils.cfg:125
+#: Return_of_the_Monster/utils/rotm-utils.cfg:152
+msgid "Death of Deliowen"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Return_of_the_Monster/utils/rotm-utils.cfg:156
+msgid "Death of Prince Erulo"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/utils/rotm-utils.cfg:173
+msgid "Aaargh... I am no longer fit my duty..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/utils/rotm-utils.cfg:186
+msgid "Aaargh... Ogres forever..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/utils/rotm-utils.cfg:212
+msgid "Aaargh... If I die, the story does not continue..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/utils/rotm-utils.cfg:225
+msgid "Aliee... This should not happen..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/utils/rotm-utils.cfg:238
+msgid "Aaargh... I am too early to die..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/utils/rotm-utils.cfg:251
+#: Return_of_the_Monster/utils/rotm-utils.cfg:264
+msgid "Aliee..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/utils/rotm-utils.cfg:277
+msgid "Aaargh... They got me..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/utils/rotm-utils.cfg:291
+msgid "Aaargh... Sir, Amailoss... I am no longer..."
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/utils/rotm-utils.cfg:295
+msgid "Nooo...! Trixleii, I still need you...!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/utils/rotm-utils.cfg:305
+msgid "Aiieee...!"
+msgstr ""
+
+#. [message]: id=Amailoss
+#: Return_of_the_Monster/utils/rotm-utils.cfg:309
+msgid "Nooo...! Rialia...!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/utils/rotm-utils.cfg:319
+msgid "Aaargh... I can... no longer... help you..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Return_of_the_Monster/utils/rotm-utils.cfg:329
+msgid "Gwaargh..."
+msgstr ""
+
+#. [message]: speaker=Deliowen
+#: Return_of_the_Monster/utils/rotm-utils.cfg:333
+msgid "Oh-No! Celicy is mother's favorite... She will be really mad at me..."
+msgstr ""
+
+#: Return_of_the_Monster/utils/rotm-utils.cfg:340
+msgid ""
+"Sprinkling this water on melee weapons grants them the 'arcane' damage type "
+"until the end of the campaign. Should $unit.name use it?"
+msgstr ""
+
+#: Return_of_the_Monster/utils/rotm-utils.cfg:341
+#: Return_of_the_Monster/utils/rotm-utils.cfg:364
+msgid "holy water^Take it"
+msgstr ""
+
+#: Return_of_the_Monster/utils/rotm-utils.cfg:342
+#: Return_of_the_Monster/utils/rotm-utils.cfg:365
+msgid "holy water^Leave it"
+msgstr ""
+
+#: Return_of_the_Monster/utils/rotm-utils.cfg:343
+#: Return_of_the_Monster/utils/rotm-utils.cfg:366
+#: Return_of_the_Monster/utils/rotm-utils.cfg:389
+#: Return_of_the_Monster/utils/rotm-utils.cfg:415
+msgid "I am not suited to the use of this item! Let another take it."
+msgstr ""
+
+#. [object]
+#: Return_of_the_Monster/utils/rotm-utils.cfg:345
+#: Return_of_the_Monster/utils/rotm-utils.cfg:368
+msgid "Holy Water"
+msgstr ""
+
+#. [object]
+#: Return_of_the_Monster/utils/rotm-utils.cfg:348
+msgid ""
+"This water will make melee weapons have the 'arcane' damage type until the "
+"end of the campaign."
+msgstr ""
+
+#: Return_of_the_Monster/utils/rotm-utils.cfg:363
+msgid ""
+"Sprinkling this water on ranged weapons grants them the 'arcane' damage type "
+"until the end of the campaign. Should $unit.name use it?"
+msgstr ""
+
+#. [object]
+#: Return_of_the_Monster/utils/rotm-utils.cfg:371
+msgid ""
+"This water will make ranged weapons have the 'arcane' damage type until the "
+"end of the campaign."
+msgstr ""
+
+#: Return_of_the_Monster/utils/rotm-utils.cfg:386
+msgid ""
+"This magical potion adds 5 to the taker’s maximum hitpoints until the end of "
+"the campaign. Should $unit.name use it?"
+msgstr ""
+
+#: Return_of_the_Monster/utils/rotm-utils.cfg:387
+msgid "blue potion^Take it"
+msgstr ""
+
+#: Return_of_the_Monster/utils/rotm-utils.cfg:388
+msgid "blue potion^Leave it"
+msgstr ""
+
+#. [object]
+#: Return_of_the_Monster/utils/rotm-utils.cfg:391
+msgid "Potion of Bull"
+msgstr ""
+
+#. [object]
+#: Return_of_the_Monster/utils/rotm-utils.cfg:394
+msgid ""
+"This potent draught will permanently add 5 points to the drinker's maximum "
+"hitpoints."
+msgstr ""
+
+#: Return_of_the_Monster/utils/rotm-utils.cfg:412
+msgid ""
+"This magical cloak hides taker in the swamp terrains from the enemies until "
+"the end of the campaign. Should $unit.name use it?"
+msgstr ""
+
+#: Return_of_the_Monster/utils/rotm-utils.cfg:413
+msgid "green cloak^Take it"
+msgstr ""
+
+#: Return_of_the_Monster/utils/rotm-utils.cfg:414
+msgid "green cloak^Leave it"
+msgstr ""
+
+#. [object]
+#: Return_of_the_Monster/utils/rotm-utils.cfg:417
+msgid "Green Cloak"
+msgstr ""
+
+#. [object]
+#: Return_of_the_Monster/utils/rotm-utils.cfg:420
+msgid "This cloak hides the unit from the enemies in swamp the terrains."
+msgstr ""
+
+#. [hides]: id=rotm_hiding
+#: Return_of_the_Monster/utils/rotm-utils.cfg:426
+#: Return_of_the_Monster/utils/rotm-utils.cfg:427
+msgid "stalker"
+msgstr ""
