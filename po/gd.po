@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Return_of_the_Monster-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-04 21:02-0400\n"
+"POT-Creation-Date: 2012-10-12 18:38-0400\n"
 "PO-Revision-Date: 2012-09-04 21:02-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: gd\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: gd\n"
 
 #. [campaign]: id=Return_of_the_Monster
 #. [scenario]: id=17_Return_of_the_Monster
@@ -128,11 +128,17 @@ msgstr ""
 #. [race]: id=carapace
 #: Return_of_the_Monster/rotm-race.cfg:7
 msgid ""
-"Carapaces are guards on the ocean, often appear in some river or swamps."
+"Carapaces, that are organized by turtle and crab like monsters under lord "
+"carapace, are guards on the ocean, often appear in some river or swamps. All "
+"of them are covered by the hard shells that protect them as well during the "
+"battles.\n"
+"The hands and legs of turtle like ones are short, and they move slower than "
+"the most of creatures, on the other hand, crab like ones move quickly and "
+"mainly the charge of the scouting job in the race."
 msgstr ""
 
 #. [race]: id=carapace
-#: Return_of_the_Monster/rotm-race.cfg:15
+#: Return_of_the_Monster/rotm-race.cfg:16
 msgid ""
 "Amail,Axmail,Amprixta,Anexiraha,Anitratta,Arix,Blanaloss,Bloidatta,Gaxmoloss,"
 "Griaha,Flixta,Frikes,Hailoss,Hainoss,Harxoha,Huzel,Inaloss,Inexloss,Irixloss,"
@@ -143,22 +149,22 @@ msgid ""
 msgstr ""
 
 #. [race]: id=fairy
-#: Return_of_the_Monster/rotm-race.cfg:19
+#: Return_of_the_Monster/rotm-race.cfg:20
 msgid "race^Fairy"
 msgstr ""
 
 #. [race]: id=fairy
-#: Return_of_the_Monster/rotm-race.cfg:20
+#: Return_of_the_Monster/rotm-race.cfg:21
 msgid "race+female^Fairy"
 msgstr ""
 
 #. [race]: id=fairy
-#: Return_of_the_Monster/rotm-race.cfg:21
+#: Return_of_the_Monster/rotm-race.cfg:22
 msgid "race^Fairies"
 msgstr ""
 
 #. [race]: id=fairy
-#: Return_of_the_Monster/rotm-race.cfg:22
+#: Return_of_the_Monster/rotm-race.cfg:23
 msgid ""
 "Snow fairies have haunted the highlands of Wesnoth for centuries, preferring "
 "to stay in only the coldest and most inaccessible places. Unlike most elves, "
@@ -174,22 +180,22 @@ msgid ""
 msgstr ""
 
 #. [race]: id=illusion
-#: Return_of_the_Monster/rotm-race.cfg:31
+#: Return_of_the_Monster/rotm-race.cfg:32
 msgid "race^Illusion"
 msgstr ""
 
 #. [race]: id=illusion
-#: Return_of_the_Monster/rotm-race.cfg:32
+#: Return_of_the_Monster/rotm-race.cfg:33
 msgid "race+female^Illusion"
 msgstr ""
 
 #. [race]: id=illusion
-#: Return_of_the_Monster/rotm-race.cfg:33
+#: Return_of_the_Monster/rotm-race.cfg:34
 msgid "race^Illusions"
 msgstr ""
 
 #. [race]: id=illusion
-#: Return_of_the_Monster/rotm-race.cfg:34
+#: Return_of_the_Monster/rotm-race.cfg:35
 msgid ""
 "Illusions are not living creature, but different from undead. Hallucination "
 "or doppelgänger may be more a correct word than the illusion in this "
@@ -264,7 +270,7 @@ msgstr ""
 #: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:400
 #: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:166
 #: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:313
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:314
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:315
 #: Return_of_the_Monster/scenarios/05_The_Birth.cfg:327
 #: Return_of_the_Monster/scenarios/05_The_Birth.cfg:467
 #: Return_of_the_Monster/scenarios/06_New_Leader.cfg:217
@@ -302,7 +308,7 @@ msgstr ""
 #: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:408
 #: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:174
 #: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:321
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:326
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:327
 #: Return_of_the_Monster/scenarios/05_The_Birth.cfg:138
 #: Return_of_the_Monster/scenarios/05_The_Birth.cfg:339
 #: Return_of_the_Monster/scenarios/05_The_Birth.cfg:483
@@ -526,7 +532,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:396
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:306
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:307
 #: Return_of_the_Monster/scenarios/05_The_Birth.cfg:323
 #: Return_of_the_Monster/scenarios/05_The_Birth.cfg:463
 #: Return_of_the_Monster/scenarios/06_New_Leader.cfg:213
@@ -619,14 +625,14 @@ msgstr ""
 #. [side]: type=Fugitive, id=Della
 #: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:38
 #: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:96
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:261
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:285
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:262
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:286
 msgid "Pirates"
 msgstr ""
 
 #. [side]: type=Fugitive, id=Della
 #: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:42
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:288
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:289
 msgid "Della"
 msgstr ""
 
@@ -648,7 +654,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:170
 #: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:317
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:318
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:319
 msgid "Death of Divaloss"
 msgstr ""
 
@@ -669,13 +675,13 @@ msgstr ""
 
 #. [unit]: type=Hunting Carapace, id=Slele
 #: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:243
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:370
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:371
 msgid "Slele"
 msgstr ""
 
 #. [unit]: type=Protective Carapace, id=Vinail
 #: Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:255
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:391
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:392
 msgid "Vinail"
 msgstr ""
 
@@ -781,44 +787,44 @@ msgid "Tulosis"
 msgstr ""
 
 #. [side]: type=Bandit, id=Bludry
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:264
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:265
 msgid "Bludry"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:310
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:311
 msgid "Taken the treasure or the green ball"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:322
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:323
 msgid "Death of Tulosis"
 msgstr ""
 
 #. [message]: id=Bludry
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:474
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:475
 msgid "Don't be afraid! Take the treasures!"
 msgstr ""
 
 #. [message]: id=Amailoss
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:478
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:479
 msgid ""
 "Here they come!  Everyone, protect the treasure!  And be careful of those "
 "ships; they can be deadly!"
 msgstr ""
 
 #. [message]: id=Divaloss
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:482
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:483
 msgid "Uh...!  Something is happening."
 msgstr ""
 
 #. [message]: id=Tulosis
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:486
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:487
 msgid "What is it, Divaloss?"
 msgstr ""
 
 #. [message]: id=Divaloss
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:490
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:491
 msgid ""
 "There is a disturance in the energy far north of here.  I have the feeling "
 "that it involves Ixyndara, the great leader of the reptiles...  Lord "
@@ -826,7 +832,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Tulosis
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:494
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:495
 msgid ""
 "Indeed. \n"
 "Amailoss, if you achieve a victory here, your training will be over.  Your "
@@ -835,12 +841,12 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Amailoss
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:499
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:500
 msgid "Yes, sir. But I worry about our Queen and people, sir!"
 msgstr ""
 
 #. [message]: id=Tulosis
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:503
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:504
 msgid ""
 "Understandable.  But we must handle the immediate problem first, Amailoss.  "
 "Trust our strength, strike hard, and then we can figure out how to help the "
@@ -848,48 +854,48 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:515
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:516
 msgid ""
 "Storm Orb, a Naga Legend, has been created from their carapaces. It makes a "
 "new ranged attack."
 msgstr ""
 
 #. [message]: id=Divaloss
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:520
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:521
 msgid "We cannot use it now."
 msgstr ""
 
 #. [message]: id=Della
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:595
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:596
 msgid ""
 "Heh, heh, heh.  Let's get that green ball. It's sure to bring us a lot of  "
 "gold."
 msgstr ""
 
 #. [message]: id=Amailoss
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:599
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:600
 msgid "It's Della!  And a strong force.  Guard the south-west!"
 msgstr ""
 
 #. [message]: id=Tulosis
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:650
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:672
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:651
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:673
 msgid "Noooo... Amailoss, you fail to become a commander."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:685
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:698
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:686
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:699
 msgid "Uuuh... This should not be happening..."
 msgstr ""
 
 #. [message]: id=Tulosis
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:709
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:710
 msgid "Well done."
 msgstr ""
 
 #. [message]: speaker=Divaloss
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:713
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:714
 msgid ""
 "Gather the troops, we must leave here immediately.  Part of our force must "
 "go north and locate the source of that distubance.  And perhaps to help "
@@ -897,7 +903,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Tulosis
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:717
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:718
 msgid ""
 "Amailoss, you have earned the right to lead an independent force.  Take some "
 "troops, go to the area called Riverside, and find a dwarvish inventor named "
@@ -905,33 +911,33 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Amailoss
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:721
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:722
 msgid "Yes, sir, and please take care."
 msgstr ""
 
 #. [message]: id=Divaloss
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:731
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:732
 msgid ""
 "Take the orb with you. It is a sign that you are the heir, and it will give "
 "you an extra attack."
 msgstr ""
 
 #. [message]: id=Amailoss
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:735
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:779
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:736
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:780
 msgid "Indeed."
 msgstr ""
 
 #. [attack]: type=fire
 #. [effect]: type=fire
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:756
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:757
 #: Return_of_the_Monster/units/nagas/Nagini_Queen.cfg:52
 #: Return_of_the_Monster/utils/rotm-unit-utils.cfg:32
 msgid "storm orb"
 msgstr ""
 
 #. [message]: id=Divaloss
-#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:775
+#: Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:776
 msgid ""
 "Take the orb with you. It is a sign that you are the heir, and it will give "
 "you an extra attack after you've gained more experience."
@@ -3619,8 +3625,8 @@ msgstr ""
 #. [unit_type]: id=Flame of Justice, race=monster
 #: Return_of_the_Monster/units/Flame_of_Justice.cfg:23
 msgid ""
-"Flame of Justice is a fairy of Fire. When he shows himself in our world, the "
-"body is shown as like a Dragon."
+"Flame of Justice is a fairy of Flame. When he shows himself in our world, "
+"the body is shown as like a Dragon."
 msgstr ""
 
 #. [attack]: type=fire
