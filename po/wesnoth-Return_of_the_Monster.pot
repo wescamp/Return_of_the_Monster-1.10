@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Return_of_the_Monster-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-31 09:41-0500\n"
+"POT-Creation-Date: 2013-04-05 15:02-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -237,7 +237,7 @@ msgid "Move Amailoss out of the cave at south-east"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:341 ./Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:107 ./Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:269 ./Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:400 ./Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:166 ./Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:313 ./Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:315 ./Return_of_the_Monster/scenarios/05_The_Birth.cfg:328 ./Return_of_the_Monster/scenarios/05_The_Birth.cfg:468 ./Return_of_the_Monster/scenarios/06_New_Leader.cfg:217 ./Return_of_the_Monster/scenarios/06_New_Leader.cfg:357 ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:923 ./Return_of_the_Monster/scenarios/10_The_Escape.cfg:119 ./Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:198 ./Return_of_the_Monster/utils/rotm-utils.cfg:41 ./Return_of_the_Monster/utils/rotm-utils.cfg:64 ./Return_of_the_Monster/utils/rotm-utils.cfg:90 ./Return_of_the_Monster/utils/rotm-utils.cfg:109 ./Return_of_the_Monster/utils/rotm-utils.cfg:136
+#: ./Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:341 ./Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:107 ./Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:269 ./Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:400 ./Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:166 ./Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:313 ./Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:315 ./Return_of_the_Monster/scenarios/05_The_Birth.cfg:328 ./Return_of_the_Monster/scenarios/05_The_Birth.cfg:468 ./Return_of_the_Monster/scenarios/06_New_Leader.cfg:217 ./Return_of_the_Monster/scenarios/06_New_Leader.cfg:357 ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:901 ./Return_of_the_Monster/scenarios/10_The_Escape.cfg:119 ./Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:198 ./Return_of_the_Monster/utils/rotm-utils.cfg:41 ./Return_of_the_Monster/utils/rotm-utils.cfg:64 ./Return_of_the_Monster/utils/rotm-utils.cfg:90 ./Return_of_the_Monster/utils/rotm-utils.cfg:109 ./Return_of_the_Monster/utils/rotm-utils.cfg:136
 msgid "Death of Amailoss"
 msgstr ""
 
@@ -257,7 +257,7 @@ msgid "Death of Lamassal"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:357 ./Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:115 ./Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:277 ./Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:408 ./Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:174 ./Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:321 ./Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:327 ./Return_of_the_Monster/scenarios/05_The_Birth.cfg:139 ./Return_of_the_Monster/scenarios/05_The_Birth.cfg:340 ./Return_of_the_Monster/scenarios/05_The_Birth.cfg:484 ./Return_of_the_Monster/scenarios/06_New_Leader.cfg:225 ./Return_of_the_Monster/scenarios/06_New_Leader.cfg:369 ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:931 ./Return_of_the_Monster/scenarios/10_The_Escape.cfg:127 ./Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:214 ./Return_of_the_Monster/utils/rotm-utils.cfg:57 ./Return_of_the_Monster/utils/rotm-utils.cfg:84 ./Return_of_the_Monster/utils/rotm-utils.cfg:102 ./Return_of_the_Monster/utils/rotm-utils.cfg:129 ./Return_of_the_Monster/utils/rotm-utils.cfg:160
+#: ./Return_of_the_Monster/scenarios/01_A_Rule_of_Nagas.cfg:357 ./Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:115 ./Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:277 ./Return_of_the_Monster/scenarios/02_Through_the_Forest.cfg:408 ./Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:174 ./Return_of_the_Monster/scenarios/03_Pirates_Port.cfg:321 ./Return_of_the_Monster/scenarios/04_Carapace_Guards.cfg:327 ./Return_of_the_Monster/scenarios/05_The_Birth.cfg:139 ./Return_of_the_Monster/scenarios/05_The_Birth.cfg:340 ./Return_of_the_Monster/scenarios/05_The_Birth.cfg:484 ./Return_of_the_Monster/scenarios/06_New_Leader.cfg:225 ./Return_of_the_Monster/scenarios/06_New_Leader.cfg:369 ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:909 ./Return_of_the_Monster/scenarios/10_The_Escape.cfg:127 ./Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:214 ./Return_of_the_Monster/utils/rotm-utils.cfg:57 ./Return_of_the_Monster/utils/rotm-utils.cfg:84 ./Return_of_the_Monster/utils/rotm-utils.cfg:102 ./Return_of_the_Monster/utils/rotm-utils.cfg:129 ./Return_of_the_Monster/utils/rotm-utils.cfg:160
 msgid "Turns run out"
 msgstr ""
 
@@ -949,7 +949,7 @@ msgid "You are right, young flyer.  We will explain, but be patient while we do 
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Return_of_the_Monster/scenarios/05_The_Birth.cfg:480 ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:927 ./Return_of_the_Monster/scenarios/10_The_Escape.cfg:123 ./Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:202 ./Return_of_the_Monster/utils/rotm-utils.cfg:80 ./Return_of_the_Monster/utils/rotm-utils.cfg:94 ./Return_of_the_Monster/utils/rotm-utils.cfg:113 ./Return_of_the_Monster/utils/rotm-utils.cfg:140
+#: ./Return_of_the_Monster/scenarios/05_The_Birth.cfg:480 ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:905 ./Return_of_the_Monster/scenarios/10_The_Escape.cfg:123 ./Return_of_the_Monster/scenarios/14_Snow_Queen.cfg:202 ./Return_of_the_Monster/utils/rotm-utils.cfg:80 ./Return_of_the_Monster/utils/rotm-utils.cfg:94 ./Return_of_the_Monster/utils/rotm-utils.cfg:113 ./Return_of_the_Monster/utils/rotm-utils.cfg:140
 msgid "Death of Kózmo"
 msgstr ""
 
@@ -1462,7 +1462,7 @@ msgstr ""
 
 #. [side]: type=Ancient Lich, id=Vevyan
 #. [unit]: type=Ancient Lich, id=Vevyan
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:223 ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:1005 ./Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:44
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:223 ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:983 ./Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:44
 msgid "Vevyan"
 msgstr ""
 
@@ -1518,132 +1518,132 @@ msgid "Yes, this is it! Now I just need to move on the sign."
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:562
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:547
 msgid "Move Vev onto the rune-sign"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:582
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:567
 msgid "Hmmm..."
 msgstr ""
 
 #. [message]: id=Vev
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:586
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:571
 msgid "Let me take it! I don't think you know how to use it."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:617
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:602
 msgid "You gain a bonus of 100 golds."
 msgstr ""
 
 #. [message]: id=Vev
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:662
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:640
 msgid "Hmmm... too little power... Maybe a Mudcrawler is not strong enough. Arkarms, I need your help. Please stand on the other sign."
 msgstr ""
 
 #. [message]: id=Arkarms
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:666
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:644
 msgid "Eh, me? Okay..."
 msgstr ""
 
 #. [message]: id=Kozmo
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:670
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:648
 msgid "Why is Arkarms needed?"
 msgstr ""
 
 #. [message]: id=Vev
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:674
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:652
 msgid "Ah... Well... He is strong, and has much energy. So he can help make it happen. Not a big deal."
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:679
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:657
 msgid "Move Arkarms onto the rune-sign"
 msgstr ""
 
 #. [message]: id=Vev
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:709
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:687
 msgid "Good! That feels right! All will be well in a few moments."
 msgstr ""
 
 #. [message]: id=Amailoss
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:759
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:737
 msgid "Noooo... Arkarms!"
 msgstr ""
 
 #. [message]: id=Vevyan
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:763
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:741
 msgid "Hahaha... Excellent! Thank you for defeating the orcs and bring me here. To show my appreciation, here is some advice for you:  Run away!"
 msgstr ""
 
 #. [message]: id=Amailoss
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:780
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:758
 msgid "You vile deceiver! Change Arkarms back to normal!"
 msgstr ""
 
 #. [message]: id=Vevyan
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:784
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:762
 msgid "Unfortunately, the answer is NO. I needed his energy to return this world, and I will not give it back. Somehow, those devious orcs had figured out that I was trying to materialize in this cavern with some kindred ghost-sprits. They laid a trap, and took my magical power before it became stable and sealed it in the tablet. It was a good try. But they didn't completely destroy the tablet. They tried to kill my sprit, but I was able to out-run them. Hahaha."
 msgstr ""
 
 #. [message]: id=Amailoss
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:788
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:766
 msgid "But you were just a Mud-crawler                             when we met you."
 msgstr ""
 
 #. [message]: id=Vevyan
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:792
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:770
 msgid "Yes, I was. My escape was due to quick thinking. Orcs cannot move well in water and swamps, so the spirits and I escaped from the cave by using terrain where we were fast and they were slow. After that, when I arrived in your area, I got lucky and encountered a mud-crawler. I killed him and used his body. And then a simple mud-crawler asked for your help in defeating some orcs. Hahaha. It was a good fake, don't you think?   Now, I tell you again to leave here before my soldiers attack. They are not gentlemen like I am."
 msgstr ""
 
 #. [message]: id=Jexxik
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:796
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:774
 msgid "You lied and usssed usss!  We don't run away.  We destroy you Vev!"
 msgstr ""
 
 #. [message]: id=Vevyan
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:800
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:778
 msgid "The name is Vevyan, you silly lizard. And okay, if you don't want to leave, I can grant your request. Stay here forever! Hahaha... HAAAH!"
 msgstr ""
 
 #. [message]: id=Amailoss
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:856
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:834
 msgid "Noooo! Jexxik!"
 msgstr ""
 
 #. [message]: id=Kozmo
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:860
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:838
 msgid "Run! Find the exit! We are not strong enough to defeat all of them."
 msgstr ""
 
 #. [message]: id=Amailoss
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:864 ./Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:527
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:842 ./Return_of_the_Monster/scenarios/17_Return_of_the_Monster.cfg:527
 msgid "Ummm..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:872
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:850
 msgid "Because Vevyan turned Arkarms and Jexxik to stones, you can no longer recruit <i>Young Ogres</i>, <i>Saurian Skirmishers</i>."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:897
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:875
 msgid "Click! Click, click! <small><i>Here! The exit is right here!</i></small>"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:903
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:881
 msgid "Here! The exit is right here!"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:919
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:897
 msgid "Move someone to the exit"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:983
+#: ./Return_of_the_Monster/scenarios/09_Spiritual_Zone.cfg:961
 msgid "Hahaha... A silly attempt..."
 msgstr ""
 
@@ -1892,19 +1892,23 @@ msgstr ""
 #. [option]: id=rotm_hunter_trait, speaker=narrator
 #. [option]: id=rotm_protector_trait, speaker=narrator
 #: ./Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:361 ./Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:434
-msgid "He is slow, so he should be a quicker unit."
+msgid "He is slow. He should be a quicker unit."
 msgstr ""
 
 #. [option]: id=rotm_hunter_trait, speaker=narrator
-#. [option]: id=rotm_protector_trait, speaker=narrator
-#: ./Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:382 ./Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:455
-msgid "He is a defender, so he should be a more defensive unit."
+#: ./Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:382
+msgid "He is a defender. He should be a more defensive unit."
 msgstr ""
 
 #. [option]: id=rotm_hunter_trait, speaker=narrator
 #. [option]: id=rotm_protector_trait, speaker=narrator
 #: ./Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:403 ./Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:476
 msgid "The traits should just be a random."
+msgstr ""
+
+#. [option]: id=rotm_protector_trait, speaker=narrator
+#: ./Return_of_the_Monster/scenarios/12_Into_Farzi.cfg:455
+msgid "He is a defender,  He should be a more defensive unit."
 msgstr ""
 
 #. [message]: id=Prart
